@@ -135,7 +135,7 @@ export function AdjusterInterface() {
 
   return (
     <PageTransition>
-      <div className="p-6 max-w-7xl mx-auto">
+      <div className="p-4 max-w-[98%] mx-auto">
         {/* Header */}
         <motion.div 
           className="mb-6"
