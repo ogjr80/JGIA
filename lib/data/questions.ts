@@ -40,14 +40,32 @@ export interface WorkflowResponse {
 
 // Sample questions based on the PRD workflow sections
 export const sampleQuestions: Question[] = [
-  // Section 1: Setup & First Contact
+  // Section 1: Claim Representation
+  {
+    id: 'claim_rep_001',
+    questionText: 'Is Claim Represented',
+    questionType: 'select',
+    hierarchyLevel: 1,
+    sectionName: 'Claim Representation',
+    displayOrder: 1,
+    colorCode: 'yellow',
+    isRequired: true,
+    dropdownOptions: [
+      'Yes - Attorney Represented',
+      'Yes - Public Adjuster Represented',
+      'Yes - Attorney and Public Adjuster Attorney',
+      'No - Claim is not represented.'
+    ]
+  },
+
+  // Section 2: Setup & First Contact
   {
     id: 'setup_001',
     questionText: 'Date and time of first customer contact',
     questionType: 'date',
     hierarchyLevel: 1,
     sectionName: 'Setup & First Contact',
-    displayOrder: 1,
+    displayOrder: 2,
     colorCode: 'yellow',
     isRequired: true,
     helpText: 'Must be within 24 hours of claim assignment'
@@ -58,7 +76,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Setup & First Contact',
-    displayOrder: 2,
+    displayOrder: 3,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Phone Call', 'Email', 'Text Message', 'In Person']
@@ -69,7 +87,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Setup & First Contact',
-    displayOrder: 3,
+    displayOrder: 4,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Answered', 'Voicemail Left', 'No Answer', 'Busy Signal', 'Invalid Number']
@@ -81,7 +99,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'setup_003',
     hierarchyLevel: 2,
     sectionName: 'Setup & First Contact',
-    displayOrder: 4,
+    displayOrder: 5,
     colorCode: 'blue',
     isRequired: false,
     conditionalLogic: {
@@ -90,14 +108,14 @@ export const sampleQuestions: Question[] = [
     placeholder: 'Describe the voicemail message left...'
   },
 
-  // Section 2: Customer Contact & Representation
+  // Section 3: Customer Contact & Representation
   {
     id: 'contact_001',
     questionText: 'Is the policyholder represented by a public adjuster?',
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Customer Contact & Representation',
-    displayOrder: 5,
+    displayOrder: 6,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Yes', 'No', 'Unknown']
@@ -109,7 +127,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'contact_001',
     hierarchyLevel: 2,
     sectionName: 'Customer Contact & Representation',
-    displayOrder: 6,
+    displayOrder: 7,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -123,7 +141,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'contact_001',
     hierarchyLevel: 2,
     sectionName: 'Customer Contact & Representation',
-    displayOrder: 7,
+    displayOrder: 8,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -137,7 +155,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Customer Contact & Representation',
-    displayOrder: 8,
+    displayOrder: 9,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Yes', 'No', 'Unknown']
@@ -149,7 +167,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'contact_004',
     hierarchyLevel: 2,
     sectionName: 'Customer Contact & Representation',
-    displayOrder: 9,
+    displayOrder: 10,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -158,14 +176,14 @@ export const sampleQuestions: Question[] = [
     placeholder: 'Law firm name, attorney name, contact details...'
   },
 
-  // Section 3: EagleView Requirements
+  // Section 4: EagleView Requirements
   {
     id: 'eagle_001',
     questionText: 'Is EagleView report required for this claim?',
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'EagleView Requirements',
-    displayOrder: 10,
+    displayOrder: 11,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Yes', 'No', 'Pending Determination']
@@ -177,7 +195,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'eagle_001',
     hierarchyLevel: 2,
     sectionName: 'EagleView Requirements',
-    displayOrder: 11,
+    displayOrder: 12,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -191,7 +209,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'eagle_001',
     hierarchyLevel: 2,
     sectionName: 'EagleView Requirements',
-    displayOrder: 12,
+    displayOrder: 13,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -200,14 +218,14 @@ export const sampleQuestions: Question[] = [
     dropdownOptions: ['Requested', 'In Progress', 'Completed', 'Failed - Retry Needed', 'Not Available']
   },
 
-  // Section 4: Ladder Assist Approval
+  // Section 5: Ladder Assist Approval
   {
     id: 'ladder_001',
     questionText: 'Is ladder assist required for inspection?',
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Ladder Assist Approval',
-    displayOrder: 13,
+    displayOrder: 14,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Yes', 'No', 'To Be Determined']
@@ -219,7 +237,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'ladder_001',
     hierarchyLevel: 2,
     sectionName: 'Ladder Assist Approval',
-    displayOrder: 14,
+    displayOrder: 15,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -234,7 +252,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'ladder_001',
     hierarchyLevel: 2,
     sectionName: 'Ladder Assist Approval',
-    displayOrder: 15,
+    displayOrder: 16,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -243,14 +261,14 @@ export const sampleQuestions: Question[] = [
     dropdownOptions: ['Pending Approval', 'Approved', 'Denied', 'Alternative Solution Required']
   },
 
-  // Section 5: Inspection Scheduling
+  // Section 6: Inspection Scheduling
   {
     id: 'inspect_001',
     questionText: 'Initial inspection date and time',
     questionType: 'date',
     hierarchyLevel: 1,
     sectionName: 'Inspection Scheduling',
-    displayOrder: 16,
+    displayOrder: 17,
     colorCode: 'yellow',
     isRequired: true
   },
@@ -260,7 +278,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Inspection Scheduling',
-    displayOrder: 17,
+    displayOrder: 18,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Interior Only', 'Exterior Only', 'Interior & Exterior', 'Remote/Virtual', 'Re-inspection']
@@ -271,20 +289,20 @@ export const sampleQuestions: Question[] = [
     questionType: 'multiselect',
     hierarchyLevel: 1,
     sectionName: 'Inspection Scheduling',
-    displayOrder: 18,
+    displayOrder: 19,
     colorCode: 'blue',
     isRequired: false,
     dropdownOptions: ['Key Required', 'Tenant Coordination', 'Business Hours Only', 'Security System', 'Pet Present', 'None']
   },
 
-  // Section 6: Documentation Requirements
+  // Section 7: Documentation Requirements
   {
     id: 'doc_001',
     questionText: 'Required documentation checklist',
     questionType: 'multiselect',
     hierarchyLevel: 1,
     sectionName: 'Documentation Requirements',
-    displayOrder: 19,
+    displayOrder: 20,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: [
@@ -303,7 +321,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'multiselect',
     hierarchyLevel: 2,
     sectionName: 'Documentation Requirements',
-    displayOrder: 20,
+    displayOrder: 21,
     colorCode: 'orange',
     isRequired: false,
     dropdownOptions: [
@@ -317,14 +335,14 @@ export const sampleQuestions: Question[] = [
     ]
   },
 
-  // Section 7: QA Review Process
+  // Section 8: QA Review Process
   {
     id: 'qa_001',
     questionText: 'Initial estimate completion status',
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'QA Review Process',
-    displayOrder: 21,
+    displayOrder: 22,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Complete', 'In Progress', 'Pending Information', 'On Hold']
@@ -335,7 +353,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'QA Review Process',
-    displayOrder: 22,
+    displayOrder: 23,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: ['Yes - Standard Review', 'Yes - Complex Claim Review', 'No - Standard Processing', 'Escalated Review Required']
@@ -347,7 +365,7 @@ export const sampleQuestions: Question[] = [
     parentQuestionId: 'qa_002',
     hierarchyLevel: 2,
     sectionName: 'QA Review Process',
-    displayOrder: 23,
+    displayOrder: 24,
     colorCode: 'blue',
     isRequired: true,
     conditionalLogic: {
@@ -356,14 +374,14 @@ export const sampleQuestions: Question[] = [
     dropdownOptions: ['Manager 1', 'Manager 2', 'Senior Reviewer', 'External QA Team']
   },
 
-  // Section 8: Status Reporting
+  // Section 9: Status Reporting
   {
     id: 'status_001',
     questionText: 'Current claim status',
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Status Reporting',
-    displayOrder: 24,
+    displayOrder: 25,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: [
@@ -384,7 +402,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'select',
     hierarchyLevel: 1,
     sectionName: 'Status Reporting',
-    displayOrder: 25,
+    displayOrder: 26,
     colorCode: 'yellow',
     isRequired: true,
     dropdownOptions: [
@@ -403,7 +421,7 @@ export const sampleQuestions: Question[] = [
     questionType: 'date',
     hierarchyLevel: 1,
     sectionName: 'Status Reporting',
-    displayOrder: 26,
+    displayOrder: 27,
     colorCode: 'blue',
     isRequired: true
   }
