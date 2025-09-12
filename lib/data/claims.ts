@@ -26,6 +26,12 @@ export interface Claim {
   updatedAt: Date
   firstContactDeadline: Date
   priority: 'high' | 'medium' | 'low'
+  // Workflow stage start times for status tracking
+  firstContactStartedAt?: Date
+  inspectionStartedAt?: Date
+  qaReviewStartedAt?: Date
+  managerReviewStartedAt?: Date
+  claimRevisionStartedAt?: Date
 }
 
 export interface KPIEvent {
@@ -65,7 +71,9 @@ export const sampleClaims: Claim[] = [
     createdAt: new Date('2025-01-10T08:00:00Z'),
     updatedAt: new Date('2025-01-10T14:30:00Z'),
     firstContactDeadline: new Date('2025-01-11T08:00:00Z'),
-    priority: 'high'
+    priority: 'high',
+    firstContactStartedAt: new Date('2025-01-10T08:00:00Z'),
+    inspectionStartedAt: new Date('2025-01-10T14:30:00Z')
   },
   {
     id: '2',
@@ -90,7 +98,10 @@ export const sampleClaims: Claim[] = [
     createdAt: new Date('2025-01-10T10:15:00Z'),
     updatedAt: new Date('2025-01-11T09:30:00Z'),
     firstContactDeadline: new Date('2025-01-11T10:15:00Z'),
-    priority: 'medium'
+    priority: 'medium',
+    firstContactStartedAt: new Date('2025-01-10T10:15:00Z'),
+    inspectionStartedAt: new Date('2025-01-10T15:45:00Z'),
+    qaReviewStartedAt: new Date('2025-01-11T09:30:00Z')
   },
   {
     id: '3',
@@ -113,7 +124,8 @@ export const sampleClaims: Claim[] = [
     createdAt: new Date('2025-01-11T09:00:00Z'),
     updatedAt: new Date('2025-01-11T09:00:00Z'),
     firstContactDeadline: new Date('2025-01-12T09:00:00Z'),
-    priority: 'low'
+    priority: 'low',
+    firstContactStartedAt: new Date('2025-01-11T09:00:00Z')
   },
   {
     id: '4',
@@ -161,7 +173,11 @@ export const sampleClaims: Claim[] = [
     createdAt: new Date('2025-01-09T16:45:00Z'),
     updatedAt: new Date('2025-01-11T16:30:00Z'),
     firstContactDeadline: new Date('2025-01-10T16:45:00Z'),
-    priority: 'medium'
+    priority: 'medium',
+    firstContactStartedAt: new Date('2025-01-09T16:45:00Z'),
+    inspectionStartedAt: new Date('2025-01-10T08:15:00Z'),
+    qaReviewStartedAt: new Date('2025-01-10T13:20:00Z'),
+    managerReviewStartedAt: new Date('2025-01-11T16:30:00Z')
   }
 ]
 
