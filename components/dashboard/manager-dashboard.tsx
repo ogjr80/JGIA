@@ -1,11 +1,11 @@
 'use client'
 
 import { AnimatedCard, AnimatedCardContent, AnimatedCardHeader, AnimatedCardTitle } from '@/components/ui/animated-card'
-import { AnimatedStatusBadge, AnimatedPriorityIndicator } from '@/components/ui/animated-status-badge'
+import { AnimatedStatusBadge } from '@/components/ui/animated-status-badge'
 import { AnimatedCounter, AnimatedProgressBar } from '@/components/ui/animated-counter'
 import { PageTransition, StaggerContainer, StaggerItem } from '@/components/ui/page-transition'
 import { sampleClaims, sampleKPIEvents, adjusters } from '@/lib/data/claims'
-import { getTimeStatus, formatDate, calculateClaimAge, getWorkflowStageStatus } from '@/lib/utils'
+import { formatDate, calculateClaimAge, getWorkflowStageStatus } from '@/lib/utils'
 import { 
   Clock, 
   FileText, 
@@ -13,14 +13,11 @@ import {
   AlertTriangle, 
   CheckCircle,
   TrendingUp,
-  MapPin,
-  Phone,
   Search,
   Filter,
   Download,
   RefreshCw,
   Bell,
-  ArrowUpDown,
   ArrowUp,
   ArrowDown,
   Eye,
@@ -78,7 +75,7 @@ export function ManagerDashboard() {
 
   // Filtered and sorted claims
   const filteredAndSortedClaims = useMemo(() => {
-    let filtered = sampleClaims.filter(claim => {
+    const filtered = sampleClaims.filter(claim => {
       const matchesSearch = searchTerm === '' || 
         claim.claimNumber.toLowerCase().includes(searchTerm.toLowerCase()) ||
         claim.policyholderName.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -93,23 +90,43 @@ export function ManagerDashboard() {
 
     // Sort claims
     filtered.sort((a, b) => {
-      let aValue: any = a[sortField as keyof typeof a]
-      let bValue: any = b[sortField as keyof typeof b]
+      const aValue = a[sortField as keyof typeof a]
+      const bValue = b[sortField as keyof typeof b]
       
+      // Handle Date comparisons
       if (aValue instanceof Date && bValue instanceof Date) {
-        aValue = aValue.getTime()
-        bValue = bValue.getTime()
+        const aTime = aValue.getTime()
+        const bTime = bValue.getTime()
+        return sortDirection === 'asc' 
+          ? aTime - bTime
+          : bTime - aTime
       }
       
+      // Handle string comparisons
       if (typeof aValue === 'string' && typeof bValue === 'string') {
-        aValue = aValue.toLowerCase()
-        bValue = bValue.toLowerCase()
+        const aStr = aValue.toLowerCase()
+        const bStr = bValue.toLowerCase()
+        if (sortDirection === 'asc') {
+          return aStr < bStr ? -1 : aStr > bStr ? 1 : 0
+        } else {
+          return aStr > bStr ? -1 : aStr < bStr ? 1 : 0
+        }
       }
       
+      // Handle number comparisons
+      if (typeof aValue === 'number' && typeof bValue === 'number') {
+        return sortDirection === 'asc' 
+          ? aValue - bValue
+          : bValue - aValue
+      }
+      
+      // Default case - convert to string and compare
+      const aStr = String(aValue || '').toLowerCase()
+      const bStr = String(bValue || '').toLowerCase()
       if (sortDirection === 'asc') {
-        return aValue < bValue ? -1 : aValue > bValue ? 1 : 0
+        return aStr < bStr ? -1 : aStr > bStr ? 1 : 0
       } else {
-        return aValue > bValue ? -1 : aValue < bValue ? 1 : 0
+        return aStr > bStr ? -1 : aStr < bStr ? 1 : 0
       }
     })
 
@@ -141,9 +158,6 @@ export function ManagerDashboard() {
     }
   }
 
-  const recentClaims = sampleClaims
-    .sort((a, b) => b.dateEnteredQueue.getTime() - a.dateEnteredQueue.getTime())
-    .slice(0, 5)
 
   return (
     <PageTransition>
