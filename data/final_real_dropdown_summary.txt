@@ -1,0 +1,7879 @@
+FINAL REAL DROPDOWN OPTIONS EXTRACTION
+============================================================
+Using ACTUAL dropdown options found in the Excel file
+============================================================
+
+Q1:
+  Question: DOL
+  Row: 10
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q2:
+  Question: Notes   (COLOR NOTIFICATION/ALERT TO MANAGER WITH EACH NEW NOTE ADDED TO CLAIM FILE - MANAGER MUST ADDRESS NEW NOTE ENTRY)
+  Row: 23
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q3:
+  Question: Documents
+  Row: 25
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q4:
+  Question: Is claim represented?
+  Row: 34
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q5:
+  Question: Is EagleView missing from the assignment?
+  Row: 35
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q6:
+  Question: If yes, was EagleView ordered following the instructions of the email guide?
+  Row: 36
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q7:
+  Question: If no, why not.
+  Row: 37
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q8:
+  Question: If no, send REPLY to thread on Teams Channel to request EagleView.
+  Row: 38
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q9:
+  Question: What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)
+  Row: 39
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q10:
+  Question: What is the Plan of Action?
+  Row: 40
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q11:
+  Question: If UNRESPONSIVE, the Manager's course of action is to send email to Allstate Desk Adjuster to request EagleView report and notate XactAnalysis with request.
+  Row: 41
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q12:
+  Question: If Manager completed EAGLEVIEW REQUEST, is the TA at fault?
+  Row: 42
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q13:
+  Question: Resolution of Manager's request?
+  Row: 43
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q14:
+  Question: Manager's game plan.
+  Row: 44
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q15:
+  Question: Is Ladder Assist needed?
+  Row: 45
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q16:
+  Question: If yes: was Ladder Assist approval requested from Allstate Desk Adjuster?
+  Row: 46
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q17:
+  Question: If no, why was Ladder Assist not requested from the Allstate Desk Adjuster?
+  Row: 47
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q18:
+  Question: If no, send text reminder to Task Adjuster to request Ladder Assist.
+  Row: 48
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q19:
+  Question: What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)
+  Row: 49
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q20:
+  Question: What is the Plan of Action?
+  Row: 50
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q21:
+  Question: If UNRESPONSIVE, the Manager's course of action is to send email to Allstate Desk Adjuster to request Ladder Assist approval and notate XactAnalysis with request.
+  Row: 51
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q22:
+  Question: If Manager completed LADDER ASSIST REQUEST, is the TA at fault?
+  Row: 52
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q23:
+  Question: Resolution of Manager's request?
+  Row: 53
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q24:
+  Question: Manager's game plan.
+  Row: 54
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q25:
+  Question: If yes, was Ladder Assist approval received from Allstate Desk Adjuster?
+  Row: 55
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q26:
+  Question: If no, why has the Task Adjuster not received approval?
+  Row: 56
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q27:
+  Question: If no, is text reminder needed?
+  Row: 57
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q28:
+  Question: If yes, send REPLY to thread on Teams Channel.
+  Row: 58
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q29:
+  Question: What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)
+  Row: 59
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q30:
+  Question: What is the Plan of Action?
+  Row: 60
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q31:
+  Question: If UNRESPONSIVE, the Manager's course of action is to resend email request and/or call Allstate Desk Adjuster until approval or rejection confirmation given. Then notate XactAnalysis with Allstate Desk Adjuster response.
+  Row: 61
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q32:
+  Question: If Manager completed LADDER ASSIST APPROVAL, is the TA at fault?
+  Row: 62
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q33:
+  Question: Resolution of Manager's request?
+  Row: 63
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q34:
+  Question: Manager's game plan.
+  Row: 64
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q35:
+  Question: Customer Contacted timestamp?
+  Row: 65
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q36:
+  Question: Was First Contact completed within 24 hours  (If answer is no, answer the below questions, then set a 24 hour timer and create a sub form with same questions to be completed once the timer expires)
+  Row: 66
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q37:
+  Question: If no: Number of attempts within 24 hours:
+  Row: 67
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q38:
+  Question: If no: If First Contact was not made within 24 hours, why not?
+  Row: 68
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q39:
+  Question: Is the TA at fault?
+  Row: 69
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q40:
+  Question: Was the Assignment cancelled by Allstate or the Insured/Public Adjuster/Attorney?
+  Row: 70
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q41:
+  Question: If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?
+  Row: 71
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q42:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 72
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q43:
+  Question: If no GLR uploaded: Why not?
+  Row: 73
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q44:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 74
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q45:
+  Question: What is the status of the Manager's request?
+  Row: 75
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q46:
+  Question: What is the Plan of Action?
+  Row: 76
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q47:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 77
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q48:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 78
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q49:
+  Question: Resolution of Manager's request?
+  Row: 79
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q50:
+  Question: Manager's game plan.
+  Row: 80
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q51:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 81
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q52:
+  Question: If no: Explain issues found.
+  Row: 82
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q53:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 83
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q54:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 84
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q55:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 85
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q56:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 86
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q57:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 87
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q58:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 88
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q59:
+  Question: If rejected: Explain issues found.
+  Row: 89
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q60:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 90
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q61:
+  Question: Has GLR been approved?
+  Row: 91
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q62:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 92
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q63:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 93
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q64:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 94
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q65:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 95
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q66:
+  Question: What is the status of the Manager's request?
+  Row: 96
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q67:
+  Question: What is the Plan of Action?
+  Row: 97
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q68:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 98
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q69:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 99
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q70:
+  Question: Resolution of Manager's request?
+  Row: 100
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q71:
+  Question: Manager's game plan.
+  Row: 101
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q72:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 102
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q73:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 103
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q74:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 104
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q75:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 105
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q76:
+  Question: What is the status of the Manager's request?
+  Row: 106
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q77:
+  Question: What is the Plan of Action?
+  Row: 107
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q78:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 108
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q79:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 109
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q80:
+  Question: Resolution of Manager's request?
+  Row: 110
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q81:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 111
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q82:
+  Question: If rejected: Explain issues found.
+  Row: 112
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q83:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 113
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q84:
+  Question: Has GLR been approved?
+  Row: 114
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q85:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 115
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q86:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 116
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q87:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 117
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q88:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 118
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q89:
+  Question: What is the status of the Manager's request?
+  Row: 119
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q90:
+  Question: What is the Plan of Action?
+  Row: 120
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q91:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 121
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q92:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 122
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q93:
+  Question: Resolution of Manager's request?
+  Row: 123
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q94:
+  Question: Manager's game plan.
+  Row: 124
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q95:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 125
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q96:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 126
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q97:
+  Question: What action plan is the Manager proposing at this stage of the review?
+  Row: 127
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q98:
+  Question: If claim is not reassigned: Task Adjuster to send a "no contact" EMAIL to Insured/Attorney/Public Adjuster. Does Task Adjuster EMAIL require GIA review?
+  Row: 128
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q99:
+  Question: (Review not required) Did TA send a "no contact" EMAIL to Allstate Desk Adjuster?
+  Row: 129
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q100:
+  Question: If no EMAIL sent: Why not?
+  Row: 130
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q101:
+  Question: If no EMAIL sent: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 131
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q102:
+  Question: What is the status of the Manager's request?
+  Row: 132
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q103:
+  Question: What is the Plan of Action?
+  Row: 133
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q104:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.
+  Row: 134
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q105:
+  Question: If Manager completed EMAIL, is the TA at fault?
+  Row: 135
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q106:
+  Question: Resolution of Manager's request?
+  Row: 136
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q107:
+  Question: Manager's game plan.
+  Row: 137
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q108:
+  Question: Once EMAIL sent: Review sent email. Does the EMAIL meet QA standards (grammar, punctuation, etc)?
+  Row: 138
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q109:
+  Question: If no: Explain issues found.
+  Row: 139
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q110:
+  Question: Once EMAIL sent: Document actual date and time EMAIL sent to Allstate Desk Adjuster.
+  Row: 140
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q111:
+  Question: (Review required) Did TA upload a "no contact" EMAIL draft to Teams channel for review?
+  Row: 141
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q112:
+  Question: "No contact" eMail uploaded to Teams: Does the EMAIL meet QA standards (grammar, punctuation, etc)?
+  Row: 142
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q113:
+  Question: Once the EMAIL is sent: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 143
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q114:
+  Question: If rejected: Explain issues found.
+  Row: 144
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q115:
+  Question: If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 145
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q116:
+  Question: Has EMAIL been approved?
+  Row: 146
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q117:
+  Question: If yes: Did the TA send the EMAIL?
+  Row: 147
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q118:
+  Question: Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.
+  Row: 148
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q119:
+  Question: If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)
+  Row: 149
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q120:
+  Question: What is the status of the Manager's request?
+  Row: 150
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q121:
+  Question: What is the Plan of Action?
+  Row: 151
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q122:
+  Question: If UNRESPONSIVE, the Manager's course of action is to send the EMAIL.
+  Row: 152
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q123:
+  Question: If Manager sent the EMAIL, is the TA at fault?
+  Row: 153
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q124:
+  Question: Resolution of Manager's request?
+  Row: 154
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q125:
+  Question: Manager's game plan.
+  Row: 155
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q126:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 156
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q127:
+  Question: If no EMAIL received: Why not?
+  Row: 157
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q128:
+  Question: If no EMAIL received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 158
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q129:
+  Question: What is the status of the Manager's request?
+  Row: 159
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q130:
+  Question: What is the Plan of Action?
+  Row: 160
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q131:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.
+  Row: 161
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q132:
+  Question: If Manager completed EMAIL, is the TA at fault?
+  Row: 162
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q133:
+  Question: Resolution of Manager's request?
+  Row: 163
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q134:
+  Question: Manager's game plan.
+  Row: 164
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q135:
+  Question: "No contact" eMail uploaded to Teams: Does the EMAIL meet QA standards (grammar, punctuation, etc)?
+  Row: 165
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q136:
+  Question: If rejected: Explain issues found.
+  Row: 166
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q137:
+  Question: If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 167
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q138:
+  Question: Has EMAIL been approved?
+  Row: 168
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q139:
+  Question: If yes: Did the Task Adjuster send the EMAIL to the Allstate general email address?
+  Row: 169
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q140:
+  Question: Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.
+  Row: 170
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q141:
+  Question: If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)
+  Row: 171
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q142:
+  Question: What is the status of the Manager's request?
+  Row: 172
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q143:
+  Question: What is the Plan of Action?
+  Row: 173
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q144:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.
+  Row: 174
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q145:
+  Question: If Manager completed EMAIL, is the TA at fault?
+  Row: 175
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q146:
+  Question: Resolution of Manager's request?
+  Row: 176
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q147:
+  Question: Manager's game plan.
+  Row: 177
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q148:
+  Question: Once EMAIL sent: Document actual date and time EMAIL sent to Allstate general email address.
+  Row: 178
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q149:
+  Question: If claim is not reassigned: Is TA email for "no inspection within 72 hours" status report to Allstate Desk Adjuster needed?
+  Row: 179
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q150:
+  Question: If yes: Does Task Adjuster Status Report require GIA review?
+  Row: 180
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q151:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 181
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q152:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 182
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q153:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 183
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q154:
+  Question: What is the status of the Manager's request?
+  Row: 184
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q155:
+  Question: What is the Plan of Action?
+  Row: 185
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q156:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 186
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q157:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 187
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q158:
+  Question: Resolution of Manager's request?
+  Row: 188
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q159:
+  Question: Manager's game plan.
+  Row: 189
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q160:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 190
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q161:
+  Question: If no: Explain issues found.
+  Row: 191
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q162:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 192
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q163:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 193
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q164:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 194
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q165:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 195
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q166:
+  Question: What is the status of the Manager's request?
+  Row: 196
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q167:
+  Question: What is the Plan of Action?
+  Row: 197
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q168:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 198
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q169:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 199
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q170:
+  Question: Resolution of Manager's request?
+  Row: 200
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q171:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 201
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q172:
+  Question: If rejected: Explain issues found.
+  Row: 202
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q173:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 203
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q174:
+  Question: Has status report been approved?
+  Row: 204
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q175:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 205
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q176:
+  Question: Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.
+  Row: 206
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q177:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 207
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q178:
+  Question: What is the status of the Manager's request?
+  Row: 208
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q179:
+  Question: What is the Plan of Action?
+  Row: 209
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q180:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 210
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q181:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 211
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q182:
+  Question: Resolution of Manager's request?
+  Row: 212
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q183:
+  Question: Manager's game plan.
+  Row: 213
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q184:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 214
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q185:
+  Question: If claim is not reassigned: Has the Task Adjuster attempted contact for more than 7 days with NO voice-to-voice NOR email/text from the Insured/Public Adjuster/Attorney?
+  Row: 215
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q186:
+  Question: If yes: The next course of action is to send the assignment back to Allstate. Does the Task Adjuster GLR require GIA review?
+  Row: 216
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q187:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 217
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q188:
+  Question: If no GLR uploaded: Why not?
+  Row: 218
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q189:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 219
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q190:
+  Question: What is the status of the Manager's request?
+  Row: 220
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q191:
+  Question: What is the Plan of Action?
+  Row: 221
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q192:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 222
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q193:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 223
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q194:
+  Question: Resolution of Manager's request?
+  Row: 224
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q195:
+  Question: Manager's game plan.
+  Row: 225
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q196:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 226
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q197:
+  Question: If no: Explain issues found.
+  Row: 227
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q198:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 228
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q199:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 229
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q200:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 230
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q201:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 231
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q202:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 232
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q203:
+  Question: What is the status of the Manager's request?
+  Row: 233
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q204:
+  Question: What is the Plan of Action?
+  Row: 234
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q205:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 235
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q206:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 236
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q207:
+  Question: Resolution of Manager's request?
+  Row: 237
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q208:
+  Question: Manager's game plan.
+  Row: 238
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q209:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 239
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q210:
+  Question: If rejected: Explain issues found.
+  Row: 240
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q211:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 241
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q212:
+  Question: Has GLR been approved?
+  Row: 242
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q213:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 243
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q214:
+  Question: Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.
+  Row: 244
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q215:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 245
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q216:
+  Question: What is the status of the Manager's request?
+  Row: 246
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q217:
+  Question: What is the Plan of Action?
+  Row: 247
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q218:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 248
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q219:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 249
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q220:
+  Question: Resolution of Manager's request?
+  Row: 250
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q221:
+  Question: Manager's game plan.
+  Row: 251
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q222:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 252
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q223:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 253
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q224:
+  Question: Was First Contact completed within 24 hours  (If answer is no, create a sub form with same questions  and 24 hour timer)
+  Row: 254
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q225:
+  Question: If no: Number of attempts within 24 hours:
+  Row: 255
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q226:
+  Question: If no: If First Contact was not made within 24 hours, why not?
+  Row: 256
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q227:
+  Question: Is the TA at fault?
+  Row: 257
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q228:
+  Question: Was the Assignment cancelled by Allstate or the Insured/Public Adjuster/Attorney?
+  Row: 258
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q229:
+  Question: If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?
+  Row: 259
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q230:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 260
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q231:
+  Question: If no GLR uploaded: Why not?
+  Row: 261
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q232:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 262
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q233:
+  Question: What is the status of the Manager's request?
+  Row: 263
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q234:
+  Question: What is the Plan of Action?
+  Row: 264
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q235:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 265
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q236:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 266
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q237:
+  Question: Resolution of Manager's request?
+  Row: 267
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q238:
+  Question: Manager's game plan.
+  Row: 268
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q239:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 269
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q240:
+  Question: If no: Explain issues found.
+  Row: 270
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q241:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 271
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q242:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 272
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q243:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 273
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q244:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 274
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q245:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 275
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q246:
+  Question: What is the status of the Manager's request?
+  Row: 276
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q247:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 277
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q248:
+  Question: If rejected: Explain issues found.
+  Row: 278
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q249:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 279
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q250:
+  Question: Has GLR been approved?
+  Row: 280
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q251:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 281
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q252:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 282
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q253:
+  Question: What is the status of the Manager's request?
+  Row: 283
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q254:
+  Question: What is the Plan of Action?
+  Row: 284
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q255:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 285
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q256:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 286
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q257:
+  Question: Resolution of Manager's request?
+  Row: 287
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q258:
+  Question: Manager's game plan.
+  Row: 288
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q259:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 289
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q260:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 290
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q261:
+  Question: What action plan is the Manager proposing at this stage of the review?
+  Row: 291
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q262:
+  Question: If claim is not reassigned: Task Adjuster to send a "no contact" EMAIL to Insured/Attorney/Public Adjuster. Does Task Adjuster EMAIL require GIA review?
+  Row: 292
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q263:
+  Question: (Review not required) Did TA send a "no contact" EMAIL to Allstate Desk Adjuster?
+  Row: 293
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q264:
+  Question: If no EMAIL sent: Why not?
+  Row: 294
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q265:
+  Question: If no EMAIL sent: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 295
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q266:
+  Question: What is the status of the Manager's request?
+  Row: 296
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q267:
+  Question: What is the Plan of Action?
+  Row: 297
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q268:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.
+  Row: 298
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q269:
+  Question: If Manager completed EMAIL, is the TA at fault?
+  Row: 299
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q270:
+  Question: Resolution of Manager's request?
+  Row: 300
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q271:
+  Question: Manager's game plan.
+  Row: 301
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q272:
+  Question: Once EMAIL sent: Review sent email. Does the EMAIL meet QA standards (grammar, punctuation, etc)?
+  Row: 302
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q273:
+  Question: If no: Explain issues found.
+  Row: 303
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q274:
+  Question: Once EMAIL sent: Document actual date and time EMAIL sent to Allstate Desk Adjuster.
+  Row: 304
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q275:
+  Question: (Review required) Did TA upload a "no contact" EMAIL draft to Teams channel for review?
+  Row: 305
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q276:
+  Question: If no EMAIL received: Why not?
+  Row: 306
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q277:
+  Question: If no EMAIL received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 307
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q278:
+  Question: What is the status of the Manager's request?
+  Row: 308
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q279:
+  Question: Once EMAIL received and reviewed: Does the EMAIL meet QA standards (grammar, punctuation, etc)?
+  Row: 309
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q280:
+  Question: If rejected: Explain issues found.
+  Row: 310
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q281:
+  Question: If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 311
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q282:
+  Question: Has EMAIL been approved?
+  Row: 312
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q283:
+  Question: If yes: Did the Task Adjuster send the EMAIL to the Allstate general email address?
+  Row: 313
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q284:
+  Question: If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)
+  Row: 314
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q285:
+  Question: What is the status of the Manager's request?
+  Row: 315
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q286:
+  Question: What is the Plan of Action?
+  Row: 316
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q287:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.
+  Row: 317
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q288:
+  Question: If Manager completed EMAIL, is the TA at fault?
+  Row: 318
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q289:
+  Question: Resolution of Manager's request?
+  Row: 319
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q290:
+  Question: Manager's game plan.
+  Row: 320
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q291:
+  Question: Once EMAIL sent: Document actual date and time EMAIL sent to Allstate general email address.
+  Row: 321
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q292:
+  Question: If claim is not reassigned: Is TA email for "no inspection within 72 hours" status report to Allstate Desk Adjuster needed?
+  Row: 322
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q293:
+  Question: If yes: Does Task Adjuster Status Report require GIA review?
+  Row: 323
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q294:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 324
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q295:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 325
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q296:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 326
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q297:
+  Question: What is the status of the Manager's request?
+  Row: 327
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q298:
+  Question: What is the Plan of Action?
+  Row: 328
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q299:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 329
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q300:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 330
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q301:
+  Question: Resolution of Manager's request?
+  Row: 331
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q302:
+  Question: Manager's game plan.
+  Row: 332
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q303:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 333
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q304:
+  Question: If no: Explain issues found.
+  Row: 334
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q305:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 335
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q306:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 336
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q307:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 337
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q308:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 338
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q309:
+  Question: What is the status of the Manager's request?
+  Row: 339
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q310:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 340
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q311:
+  Question: If rejected: Explain issues found.
+  Row: 341
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q312:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 342
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q313:
+  Question: Has status report been approved?
+  Row: 343
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q314:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 344
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q315:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 345
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q316:
+  Question: What is the status of the Manager's request?
+  Row: 346
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q317:
+  Question: What is the Plan of Action?
+  Row: 347
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q318:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 348
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q319:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 349
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q320:
+  Question: Resolution of Manager's request?
+  Row: 350
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q321:
+  Question: Manager's game plan.
+  Row: 351
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q322:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 352
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q323:
+  Question: If claim is not reassigned: Has the Task Adjuster attempted contact for more than 7 days with NO voice-to-voice NOR email/text from the Insured/Public Adjuster/Attorney?
+  Row: 353
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q324:
+  Question: If yes: The next course of action is to send the assignment back to Allstate. Does the Task Adjuster GLR require GIA review?
+  Row: 354
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q325:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 355
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q326:
+  Question: If no GLR uploaded: Why not?
+  Row: 356
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q327:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 357
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q328:
+  Question: What is the status of the Manager's request?
+  Row: 358
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q329:
+  Question: What is the Plan of Action?
+  Row: 359
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q330:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 360
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q331:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 361
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q332:
+  Question: Resolution of Manager's request?
+  Row: 362
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q333:
+  Question: Manager's game plan.
+  Row: 363
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q334:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 364
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q335:
+  Question: If no: Explain issues found.
+  Row: 365
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q336:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 366
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q337:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 367
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q338:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 368
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q339:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 369
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q340:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 370
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q341:
+  Question: What is the status of the Manager's request?
+  Row: 371
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q342:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 372
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q343:
+  Question: If rejected: Explain issues found.
+  Row: 373
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q344:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 374
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q345:
+  Question: Has GLR been approved?
+  Row: 375
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q346:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 376
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q347:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 377
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q348:
+  Question: What is the status of the Manager's request?
+  Row: 378
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q349:
+  Question: What is the Plan of Action?
+  Row: 379
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q350:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 380
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q351:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 381
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q352:
+  Question: Resolution of Manager's request?
+  Row: 382
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q353:
+  Question: Manager's game plan.
+  Row: 383
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q354:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 384
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q355:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 385
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q356:
+  Question: Planned Inspection timestamp?
+  Row: 389
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q357:
+  Question: Is Planned Inspection TIMESTAMP missing?
+  Row: 390
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q358:
+  Question: If yes: Was the Planned Inspection date and time documented in XactAnalysis NOTES from the First Contact call/email?
+  Row: 391
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q359:
+  Question: If yes: Why is the Planned Inspection timestamp not updated?
+  Row: 392
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q360:
+  Question: If Task Adjuster did not enter data: Manager should update Planned Inspection timestamp in XactAnalysis now.
+  Row: 393
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q361:
+  Question: If system error - unable to update timestamp: Manager should continue to check XactAnalysis until updated: (set 2 hr timer to check back on Planned Inspection timestamp update, but continue moving forward with claim)
+  Row: 394
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q362:
+  Question: If no: Why is the Inspection not scheduled?
+  Row: 395
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q363:
+  Question: If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?
+  Row: 396
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q364:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 397
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q365:
+  Question: If no GLR uploaded: Why not?
+  Row: 398
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q366:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 399
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q367:
+  Question: What is the status of the Manager's request?
+  Row: 400
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q368:
+  Question: What is the Plan of Action?
+  Row: 401
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q369:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 402
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q370:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 403
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q371:
+  Question: Resolution of Manager's request?
+  Row: 404
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q372:
+  Question: Manager's game plan.
+  Row: 405
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q373:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 406
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q374:
+  Question: If no: Explain issues found.
+  Row: 407
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q375:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 408
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q376:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 409
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q377:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 410
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q378:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 411
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q379:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 412
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q380:
+  Question: What is the status of the Manager's request?
+  Row: 413
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q381:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 414
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q382:
+  Question: If rejected: Explain issues found.
+  Row: 415
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q383:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 416
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q384:
+  Question: Has GLR been approved?
+  Row: 417
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q385:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 418
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q386:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 419
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q387:
+  Question: What is the status of the Manager's request?
+  Row: 420
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q388:
+  Question: What is the Plan of Action?
+  Row: 421
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q389:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 422
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q390:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 423
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q391:
+  Question: Resolution of Manager's request?
+  Row: 424
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q392:
+  Question: Manager's game plan.
+  Row: 425
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q393:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 426
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q394:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 427
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q395:
+  Question: If yes: What action plan is the Manager proposing at this stage of the review? - Reassign or do not reassign?
+  Row: 428
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q396:
+  Question: Will TA complete the Site Inspection within 72 hours receipt of assignment?
+  Row: 429
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q397:
+  Question: If no: Why not?
+  Row: 430
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q398:
+  Question: If inspection delay or inclement weather: Does Task Adjuster Status Report require GIA review?
+  Row: 431
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q399:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 432
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q400:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 433
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q401:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 434
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q402:
+  Question: What is the status of the Manager's request?
+  Row: 435
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q403:
+  Question: What is the Plan of Action?
+  Row: 436
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q404:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 437
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q405:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 438
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q406:
+  Question: Resolution of Manager's request?
+  Row: 439
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q407:
+  Question: Manager's game plan.
+  Row: 440
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q408:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 441
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q409:
+  Question: If no: Explain issues found.
+  Row: 442
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q410:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 443
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q411:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 444
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q412:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 445
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q413:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 446
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q414:
+  Question: What is the status of the Manager's request?
+  Row: 447
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q415:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 448
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q416:
+  Question: If rejected: Explain issues found.
+  Row: 449
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q417:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 450
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q418:
+  Question: Has status report been approved?
+  Row: 451
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q419:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 452
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q420:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 453
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q421:
+  Question: What is the status of the Manager's request?
+  Row: 454
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q422:
+  Question: What is the Plan of Action?
+  Row: 455
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q423:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 456
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q424:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 457
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q425:
+  Question: Resolution of Manager's request?
+  Row: 458
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q426:
+  Question: Manager's game plan.
+  Row: 459
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q427:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 460
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q428:
+  Question: If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?
+  Row: 461
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q429:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 462
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q430:
+  Question: If no GLR uploaded: Why not?
+  Row: 463
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q431:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 464
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q432:
+  Question: What is the status of the Manager's request?
+  Row: 465
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q433:
+  Question: What is the Plan of Action?
+  Row: 466
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q434:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 467
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q435:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 468
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q436:
+  Question: Resolution of Manager's request?
+  Row: 469
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q437:
+  Question: Manager's game plan.
+  Row: 470
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q438:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 471
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q439:
+  Question: If no: Explain issues found.
+  Row: 472
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q440:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 473
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q441:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 474
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q442:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 475
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q443:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 476
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q444:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 477
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q445:
+  Question: What is the status of the Manager's request?
+  Row: 478
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q446:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 479
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q447:
+  Question: If rejected: Explain issues found.
+  Row: 480
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q448:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 481
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q449:
+  Question: Has GLR been approved?
+  Row: 482
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q450:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 483
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q451:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 484
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q452:
+  Question: What is the status of the Manager's request?
+  Row: 485
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q453:
+  Question: What is the Plan of Action?
+  Row: 486
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q454:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 487
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q455:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 488
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q456:
+  Question: Resolution of Manager's request?
+  Row: 489
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q457:
+  Question: Manager's game plan.
+  Row: 490
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q458:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 491
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q459:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 492
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q460:
+  Question: If OTHER: Does Task Adjuster Status Report require GIA review?
+  Row: 493
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q461:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 494
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q462:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 495
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q463:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 496
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q464:
+  Question: What is the status of the Manager's request?
+  Row: 497
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q465:
+  Question: What is the Plan of Action?
+  Row: 498
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q466:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 499
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q467:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 500
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q468:
+  Question: Resolution of Manager's request?
+  Row: 501
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q469:
+  Question: Manager's game plan.
+  Row: 502
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q470:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 503
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q471:
+  Question: If no: Explain issues found.
+  Row: 504
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q472:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 505
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q473:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 506
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q474:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 507
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q475:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 508
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q476:
+  Question: What is the status of the Manager's request?
+  Row: 509
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q477:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 510
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q478:
+  Question: If rejected: Explain issues found.
+  Row: 511
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q479:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 512
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q480:
+  Question: Has status report been approved?
+  Row: 513
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q481:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 514
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q482:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 515
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q483:
+  Question: What is the status of the Manager's request?
+  Row: 516
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q484:
+  Question: What is the Plan of Action?
+  Row: 517
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q485:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 518
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q486:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 519
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q487:
+  Question: Resolution of Manager's request?
+  Row: 520
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q488:
+  Question: Manager's game plan.
+  Row: 521
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q489:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 522
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q490:
+  Question: Will estimate, photos and sketch be submitted to Allstate within 7 days of receipt of claim?
+  Row: 525
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q491:
+  Question: If estimate package cannot be returned within 7 days: Why not?
+  Row: 526
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q492:
+  Question: If estimate package cannot be returned within 7 days: Is Task Adjuster at fault?
+  Row: 527
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q493:
+  Question: Did TA email a "no return within 7 days" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 528
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q494:
+  Question: If yes: Does Task Adjuster Status Report require GIA review?
+  Row: 529
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q495:
+  Question: (Review not required) Did TA email a "no return within 7 days" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 530
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q496:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 531
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q497:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 532
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q498:
+  Question: What is the status of the Manager's request?
+  Row: 533
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q499:
+  Question: What is the Plan of Action?
+  Row: 534
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q500:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 535
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q501:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 536
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q502:
+  Question: Resolution of Manager's request?
+  Row: 537
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q503:
+  Question: Manager's game plan.
+  Row: 538
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q504:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 539
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q505:
+  Question: If no: Explain issues found.
+  Row: 540
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q506:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 541
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q507:
+  Question: (Review required) Did TA upload a "no return within 7 days" STATUS REPORT Word document to Teams channel for review?
+  Row: 542
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q508:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 543
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q509:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 544
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q510:
+  Question: What is the status of the Manager's request?
+  Row: 545
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q511:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 546
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q512:
+  Question: If rejected: Explain issues found.
+  Row: 547
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q513:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 548
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q514:
+  Question: Has status report been approved?
+  Row: 549
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q515:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 550
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q516:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 551
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q517:
+  Question: What is the status of the Manager's request?
+  Row: 552
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q518:
+  Question: What is the Plan of Action?
+  Row: 553
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q519:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 554
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q520:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 555
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q521:
+  Question: Resolution of Manager's request?
+  Row: 556
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q522:
+  Question: Manager's game plan.
+  Row: 557
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q523:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 558
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q524:
+  Question: Did the Task Adjuster's file note(s) in XactAnalysis meet service level standards?
+  Row: 560
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q525:
+  Question: If no: Select all that apply.
+  Row: 561
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q526:
+  Question: Do errors warrant an updated file note in XactAnalysis?
+  Row: 562
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q527:
+  Question: If yes: Send REPLY to thread on Teams Channel to update the file note in XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 563
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q528:
+  Question: What is the status of the Manager's request?
+  Row: 564
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q529:
+  Question: What is the Plan of Action?
+  Row: 565
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q530:
+  Question: If UNRESPONSIVE, the Manager's course of action is to update the file note in XactAnalysis.
+  Row: 566
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q531:
+  Question: If Manager completed the XactAnalysis NOTES, is the TA at fault?
+  Row: 567
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q532:
+  Question: Resolution of Manager's request?
+  Row: 568
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q533:
+  Question: Manager's game plan.
+  Row: 569
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q534:
+  Question: Planned Inspection timestamp change? (sub form if Planned Inspection timestamp changes from original data entry)
+  Row: 570
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q535:
+  Question: Did the TA update the Planned Inspection timestamp?
+  Row: 571
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q536:
+  Question: If yes: Why did the Planned Inspection timestamp change?
+  Row: 572
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q537:
+  Question: Does the Planned Inspection timestamp change affect the timeline of the claim?
+  Row: 573
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q538:
+  Question: If yes: What action plan is the Manager proposing at this stage of the review? - Reassign or do not reassign?
+  Row: 574
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q539:
+  Question: Will TA complete the Site Inspection within 72 hours receipt of assignment? (this series of sub form questions should go under row 279 - if the planned inspection timestamp change affects the timeline of the claim…)
+  Row: 575
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q540:
+  Question: If no: Why not?
+  Row: 576
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q541:
+  Question: If inspection delay or inclement weather: Does Task Adjuster Status Report require GIA review?
+  Row: 577
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q542:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 578
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q543:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 579
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q544:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 580
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q545:
+  Question: What is the status of the Manager's request?
+  Row: 581
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q546:
+  Question: What is the Plan of Action?
+  Row: 582
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q547:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 583
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q548:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 584
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q549:
+  Question: Resolution of Manager's request?
+  Row: 585
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q550:
+  Question: Manager's game plan.
+  Row: 586
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q551:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 587
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q552:
+  Question: If no: Explain issues found.
+  Row: 588
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q553:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 589
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q554:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 590
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q555:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 591
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q556:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 592
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q557:
+  Question: What is the status of the Manager's request?
+  Row: 593
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q558:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 594
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q559:
+  Question: If rejected: Explain issues found.
+  Row: 595
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q560:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 596
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q561:
+  Question: Has status report been approved?
+  Row: 597
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q562:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 598
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q563:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 599
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q564:
+  Question: What is the status of the Manager's request?
+  Row: 600
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q565:
+  Question: What is the Plan of Action?
+  Row: 601
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q566:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 602
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q567:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 603
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q568:
+  Question: Resolution of Manager's request?
+  Row: 604
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q569:
+  Question: Manager's game plan.
+  Row: 605
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q570:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 606
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q571:
+  Question: If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?
+  Row: 607
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q572:
+  Question: (Review not required) Did TA upload the GLR to XactAnalysis?
+  Row: 608
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q573:
+  Question: If no GLR uploaded: Why not?
+  Row: 609
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q574:
+  Question: If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 610
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q575:
+  Question: What is the status of the Manager's request?
+  Row: 611
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q576:
+  Question: What is the Plan of Action?
+  Row: 612
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q577:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 613
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q578:
+  Question: If Manager completed GLR, is the TA at fault?
+  Row: 614
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q579:
+  Question: Resolution of Manager's request?
+  Row: 615
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q580:
+  Question: Manager's game plan.
+  Row: 616
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q581:
+  Question: Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 617
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q582:
+  Question: If no: Explain issues found.
+  Row: 618
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q583:
+  Question: Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 619
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q584:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 620
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q585:
+  Question: (Review required) Did TA upload a GLR Word document to Teams channel for review?
+  Row: 621
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q586:
+  Question: If no GLR uploaded to Teams for review: Why not?
+  Row: 622
+  Real Dropdown Options (3):
+    1. Repeated attempts
+    2. Unresponsive
+    3. Other
+
+------------------------------------------------------------
+
+Q587:
+  Question: If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 623
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q588:
+  Question: What is the status of the Manager's request?
+  Row: 624
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q589:
+  Question: GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?
+  Row: 625
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q590:
+  Question: If rejected: Explain issues found.
+  Row: 626
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q591:
+  Question: If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 627
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q592:
+  Question: Has GLR been approved?
+  Row: 628
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q593:
+  Question: If yes: Did the TA upload the GLR to XactAnalysis?
+  Row: 629
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q594:
+  Question: If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)
+  Row: 630
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q595:
+  Question: What is the status of the Manager's request?
+  Row: 631
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q596:
+  Question: What is the Plan of Action?
+  Row: 632
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q597:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the GLR.
+  Row: 633
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q598:
+  Question: If Manager completed the GLR, is the TA at fault?
+  Row: 634
+  Real Dropdown Options (5):
+    1. Yes
+    2. No
+    3. Partially
+    4. Under Investigation
+    5. Not Applicable
+
+------------------------------------------------------------
+
+Q599:
+  Question: Resolution of Manager's request?
+  Row: 635
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q600:
+  Question: Manager's game plan.
+  Row: 636
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q601:
+  Question: Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.
+  Row: 637
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q602:
+  Question: Once completed, go to Manager Review and complete T&E invoice.
+  Row: 638
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q603:
+  Question: If OTHER: Does Task Adjuster Status Report require GIA review?
+  Row: 639
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q604:
+  Question: (Review not required) Did TA email a "no inspection within 72 hours" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 640
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q605:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 641
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q606:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 642
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q607:
+  Question: What is the status of the Manager's request?
+  Row: 643
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q608:
+  Question: What is the Plan of Action?
+  Row: 644
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q609:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 645
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q610:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 646
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q611:
+  Question: Resolution of Manager's request?
+  Row: 647
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q612:
+  Question: Manager's game plan.
+  Row: 648
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q613:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 649
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q614:
+  Question: If no: Explain issues found.
+  Row: 650
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q615:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 651
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q616:
+  Question: (Review required) Did TA upload a "no inspection within 72 hours" STATUS REPORT Word document to Teams channel for review?
+  Row: 652
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q617:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 653
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q618:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 654
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q619:
+  Question: What is the status of the Manager's request?
+  Row: 655
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q620:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 656
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q621:
+  Question: If rejected: Explain issues found.
+  Row: 657
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q622:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 658
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q623:
+  Question: Has status report been approved?
+  Row: 659
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q624:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 660
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q625:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 661
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q626:
+  Question: What is the status of the Manager's request?
+  Row: 662
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q627:
+  Question: What is the Plan of Action?
+  Row: 663
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q628:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 664
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q629:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 665
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q630:
+  Question: Resolution of Manager's request?
+  Row: 666
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q631:
+  Question: Manager's game plan.
+  Row: 667
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q632:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 668
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q633:
+  Question: Estimated Date of Return to Allstate Desk Adjuster (set time 7 days from Date entered assignment queue)
+  Row: 669
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q634:
+  Question: Expected Date of Return (based on 48 hours after Planned Inspection timestamp):
+  Row: 670
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q635:
+  Question: Will estimate, photos and sketch be submitted to Allstate within 7 days of receipt of claim?
+  Row: 671
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q636:
+  Question: If estimate package cannot be returned within 7 days: Why not?
+  Row: 672
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q637:
+  Question: If estimate package cannot be returned within 7 days: Is Task Adjuster at fault?
+  Row: 673
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q638:
+  Question: Did TA email a "no return within 7 days" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 674
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q639:
+  Question: If yes: Does Task Adjuster Status Report require GIA review?
+  Row: 675
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q640:
+  Question: (Review not required) Did TA email a "no return within 7 days" STATUS REPORT to Allstate Desk Adjuster?
+  Row: 676
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q641:
+  Question: If no STATUS REPORT emailed: Why not?
+  Row: 677
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q642:
+  Question: If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 678
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q643:
+  Question: What is the status of the Manager's request?
+  Row: 679
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q644:
+  Question: What is the Plan of Action?
+  Row: 680
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q645:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 681
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q646:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 682
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q647:
+  Question: Resolution of Manager's request?
+  Row: 683
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q648:
+  Question: Manager's game plan.
+  Row: 684
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q649:
+  Question: Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 685
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q650:
+  Question: If no: Explain issues found.
+  Row: 686
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q651:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 687
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q652:
+  Question: (Review required) Did TA upload a "no return within 7 days" STATUS REPORT Word document to Teams channel for review?
+  Row: 688
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q653:
+  Question: If no STATUS REPORT received: Why not?
+  Row: 689
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q654:
+  Question: If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 690
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q655:
+  Question: What is the status of the Manager's request?
+  Row: 691
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q656:
+  Question: Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?
+  Row: 692
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q657:
+  Question: If rejected: Explain issues found.
+  Row: 693
+  Real Dropdown Options (6):
+    1. Grammar errors
+    2. Punctuation errors
+    3. Spelling errors
+    4. Format issues
+    5. Content problems
+    6. Other
+
+------------------------------------------------------------
+
+Q658:
+  Question: If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)
+  Row: 694
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q659:
+  Question: Has status report been approved?
+  Row: 695
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q660:
+  Question: If yes: Did the TA email the STATUS REPORT to the Allstate?
+  Row: 696
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q661:
+  Question: If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)
+  Row: 697
+  Real Dropdown Options (2):
+    1. Yes
+    2. No
+
+------------------------------------------------------------
+
+Q662:
+  Question: What is the status of the Manager's request?
+  Row: 698
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q663:
+  Question: What is the Plan of Action?
+  Row: 699
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q664:
+  Question: If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.
+  Row: 700
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q665:
+  Question: If Manager completed STATUS REPORT, is the TA at fault?
+  Row: 701
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q666:
+  Question: Resolution of Manager's request?
+  Row: 702
+  Real Dropdown Options (6):
+    1. Resolved
+    2. Pending
+    3. Escalated
+    4. Closed
+    5. Under Investigation
+    6. Other
+
+------------------------------------------------------------
+
+Q667:
+  Question: Manager's game plan.
+  Row: 703
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q668:
+  Question: Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.
+  Row: 704
+  Real Dropdown Options (8):
+    1. Pending
+    2. In Progress
+    3. Completed
+    4. Approved
+    5. Rejected
+    6. Under Review
+    7. Escalated
+    8. Cancelled
+
+------------------------------------------------------------
+
+Q669:
+  Question: If cells are outlined in orange and the letters are blue, this means it's a date/time timestamp from XactAnalysis.
+  Row: 711
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q670:
+  Question: If cells are outlined in orange and the letters are light purple, this means it's a timer due date/time based on the data from XactAnalysis.
+  Row: 712
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+
+Q671:
+  Question: The blue background represents an alarm which is an important stopping point in the claim
+  Row: 713
+  Real Dropdown Options (3):
+    1. choose one
+    2. TA in process of completing claim setup.
+    3. Other
+
+------------------------------------------------------------
+
+Q672:
+  Question: The beige background represents cells throughout this process to reassign the claim. Additionally, if a cell includes the phrase "What is the Plan of Action?" this is also an opportunity to reassign the claim.
+  Row: 714
+  Real Dropdown Options (7):
+    1. Reassign to different adjuster
+    2. Provide additional training
+    3. Monitor closely
+    4. Escalate to supervisor
+    5. Continue current approach
+    6. Close claim
+    7. Other
+
+------------------------------------------------------------
+
+Q673:
+  Question: The pink strip with grey background represent a sub form if a timestamp is either missing after the due date or a timestamp date/time is changed.
+  Row: 715
+  Real Dropdown Options (1):
+    1. Enter date/time
+
+------------------------------------------------------------
+

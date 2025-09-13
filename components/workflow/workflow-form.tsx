@@ -208,7 +208,14 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
   // Get section completion status
   const getSectionStatus = (sectionQuestions: Question[]) => {
     const visibleQuestions = getVisibleQuestions(sectionQuestions)
-    const requiredQuestions = visibleQuestions.filter(q => q.isRequired)
+    // Filter out informational questions from completion calculation
+    const interactiveQuestions = visibleQuestions.filter(q => 
+      q.answerType !== 'Manager to complete task' && 
+      q.answerType !== 'Review not required' && 
+      q.answerType !== 'Review Not Required' &&
+      q.answerType !== 'Example'
+    )
+    const requiredQuestions = interactiveQuestions.filter(q => q.isRequired)
     const answeredRequired = requiredQuestions.filter(q => {
       const response = getResponse(q.id)
       return response && response !== ''
@@ -223,6 +230,18 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
   const renderFormField = (question: Question) => {
     const response = getResponse(question.id)
     const fieldId = `field_${question.id}`
+
+    // Handle informational questions (not interactive)
+    if (question.answerType === 'Manager to complete task' || 
+        question.answerType === 'Review not required' || 
+        question.answerType === 'Review Not Required' ||
+        question.answerType === 'Example') {
+      return (
+        <div className="w-full px-3 py-2 bg-gray-100 border border-gray-300 rounded-md text-gray-700 italic">
+          {question.answerType}
+        </div>
+      )
+    }
 
     switch (question.questionType) {
       case 'text':

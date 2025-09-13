@@ -1,3 +1,5 @@
+import { getRealDropdownOptions, shouldUseRealDropdown } from './real_dropdown_mapping';
+
 export interface DropdownData {
   raw_value: string;
   parsed_options: string[];
@@ -513,7 +515,17 @@ export function getDropdownOptions(question: Question): string[] {
     dropdownData: question.dropdownData
   });
   
-  // Always use column D options if available and not just "Choose one"
+  // Priority 1: Use real dropdown options from Excel file if available
+  const questionText = question.text || question.questionText || '';
+  if (shouldUseRealDropdown(questionText)) {
+    const realOptions = getRealDropdownOptions(questionText);
+    if (realOptions) {
+      console.log(`Using real dropdown options from Excel:`, realOptions);
+      return realOptions;
+    }
+  }
+  
+  // Priority 2: Use column D options if available and not just "Choose one"
   if (question.dropdownData && question.dropdownData.D && question.dropdownData.D.parsed_options.length > 0) {
     const options = question.dropdownData.D.parsed_options;
     // If it's just "Choose one", use intelligent mapping instead
@@ -542,30 +554,59 @@ function getIntelligentOptions(question: Question): string[] {
   
   console.log(`Intelligent mapping for question: "${question.text || question.questionText}" (answerType: ${answerType})`);
   
+  // Handle specific answer types from the data
+  if (answerType === 'Repeated attempts, Unresponsive, Other') {
+    console.log(`Using repeated attempts options`);
+    return ['Repeated attempts', 'Unresponsive', 'Other'];
+  }
+  
+  if (answerType === 'Manager to complete task') {
+    console.log(`Using manager task options`);
+    return ['Manager to complete task'];
+  }
+  
+  if (answerType === 'Review Required') {
+    console.log(`Using review required options`);
+    return ['Yes', 'No'];
+  }
+  
+  if (answerType === 'Review not required' || answerType === 'Review Not Required') {
+    console.log(`Using review not required options`);
+    return ['Review not required'];
+  }
+  
+  if (answerType === 'Example') {
+    console.log(`Using example options`);
+    return ['Example'];
+  }
+  
   // Yes/No questions
   if (answerType === 'Yes/No' || answerType === 'Yes' || answerType === 'No' || 
-      questionText.includes('was ') || questionText.includes('is ') || questionText.includes('did ')) {
+      questionText.includes('was ') || questionText.includes('is ') || questionText.includes('did ') ||
+      questionText.includes('has ') || questionText.includes('have ') || questionText.includes('can ')) {
     console.log(`Using Yes/No options`);
     return ['Yes', 'No'];
   }
   
-  // Status/Response questions
-  if (questionText.includes('status') || questionText.includes('response') || 
-      questionText.includes('manager') || questionText.includes('request') ||
-      questionText.includes('plan of action') || questionText.includes('resolution')) {
-    console.log(`Using status_response options`);
-    return ['Repeated attempts', 'Unresponsive', 'Other', 'Manager to complete task'];
-  }
-  
-  // Fault questions
-  if (questionText.includes('fault') || questionText.includes('ta at fault')) {
+  // Fault questions - specific pattern for "is the TA at fault"
+  if (questionText.includes('ta at fault') || questionText.includes('at fault')) {
     console.log(`Using fault options`);
     return ['Yes', 'No', 'Partially', 'Not Applicable'];
   }
   
-  // Review questions
-  if (questionText.includes('review') || questionText.includes('meet') || 
-      questionText.includes('standards') || questionText.includes('qa')) {
+  // Status/Response questions - but not the specific "Repeated attempts, Unresponsive, Other" type
+  if ((questionText.includes('status') || questionText.includes('response') || 
+      questionText.includes('manager') || questionText.includes('request') ||
+      questionText.includes('plan of action') || questionText.includes('resolution')) &&
+      answerType !== 'Repeated attempts, Unresponsive, Other') {
+    console.log(`Using status_response options`);
+    return ['Repeated attempts', 'Unresponsive', 'Other', 'Manager to complete task'];
+  }
+  
+  // Review questions - but handle specific answer types first
+  if ((questionText.includes('review') || questionText.includes('meet') || 
+      questionText.includes('standards') || questionText.includes('qa')) &&
+      answerType && !answerType.includes('Review')) {
     console.log(`Using quality options`);
     return ['Yes', 'No-modified', 'No-rejected', 'Review Required', 'Review not required'];
   }
@@ -639,11 +680,21 @@ function getColorCode(colorCode: string): 'yellow' | 'blue' | 'green' | 'orange'
 
 // Map answer type to question type
 function getQuestionType(answerType: string): 'text' | 'select' | 'multiselect' | 'textarea' | 'date' | 'checkbox' | 'file' {
+  // Handle special answer types that should not have dropdowns (informational)
+  if (answerType === 'Manager to complete task' || 
+      answerType === 'Review not required' || 
+      answerType === 'Review Not Required' ||
+      answerType === 'Example') {
+    return 'text'; // These are informational, not actual questions
+  }
+  
   switch (answerType) {
     case 'Yes/No':
     case 'Choose one':
     case 'Yes':  // For conditional questions that should be Yes/No
     case 'No':   // For conditional questions that should be Yes/No
+    case 'Review Required':
+    case 'Repeated attempts, Unresponsive, Other':
       return 'select';
     case 'Text':
       return 'textarea';
