@@ -1,0 +1,7203 @@
+{
+  "Q1": {
+    "question_text": "DOL",
+    "row_number": 10,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q2": {
+    "question_text": "Notes   (COLOR NOTIFICATION/ALERT TO MANAGER WITH EACH NEW NOTE ADDED TO CLAIM FILE - MANAGER MUST ADDRESS NEW NOTE ENTRY)",
+    "row_number": 23,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q3": {
+    "question_text": "Documents",
+    "row_number": 25,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q4": {
+    "question_text": "Is claim represented?",
+    "row_number": 34,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q5": {
+    "question_text": "Is EagleView missing from the assignment?",
+    "row_number": 35,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q6": {
+    "question_text": "If yes, was EagleView ordered following the instructions of the email guide?",
+    "row_number": 36,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q7": {
+    "question_text": "If no, why not.",
+    "row_number": 37,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q8": {
+    "question_text": "If no, send REPLY to thread on Teams Channel to request EagleView.",
+    "row_number": 38,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q9": {
+    "question_text": "What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)",
+    "row_number": 39,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q10": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 40,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q11": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to send email to Allstate Desk Adjuster to request EagleView report and notate XactAnalysis with request.",
+    "row_number": 41,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q12": {
+    "question_text": "If Manager completed EAGLEVIEW REQUEST, is the TA at fault?",
+    "row_number": 42,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q13": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 43,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q14": {
+    "question_text": "Manager's game plan.",
+    "row_number": 44,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q15": {
+    "question_text": "Is Ladder Assist needed?",
+    "row_number": 45,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q16": {
+    "question_text": "If yes: was Ladder Assist approval requested from Allstate Desk Adjuster?",
+    "row_number": 46,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q17": {
+    "question_text": "If no, why was Ladder Assist not requested from the Allstate Desk Adjuster?",
+    "row_number": 47,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q18": {
+    "question_text": "If no, send text reminder to Task Adjuster to request Ladder Assist.",
+    "row_number": 48,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q19": {
+    "question_text": "What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)",
+    "row_number": 49,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q20": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 50,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q21": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to send email to Allstate Desk Adjuster to request Ladder Assist approval and notate XactAnalysis with request.",
+    "row_number": 51,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q22": {
+    "question_text": "If Manager completed LADDER ASSIST REQUEST, is the TA at fault?",
+    "row_number": 52,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q23": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 53,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q24": {
+    "question_text": "Manager's game plan.",
+    "row_number": 54,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q25": {
+    "question_text": "If yes, was Ladder Assist approval received from Allstate Desk Adjuster?",
+    "row_number": 55,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q26": {
+    "question_text": "If no, why has the Task Adjuster not received approval?",
+    "row_number": 56,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q27": {
+    "question_text": "If no, is text reminder needed?",
+    "row_number": 57,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q28": {
+    "question_text": "If yes, send REPLY to thread on Teams Channel.",
+    "row_number": 58,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q29": {
+    "question_text": "What is the status of the Manager's request? (Can we create an internal 4 hr countdown for this question?)",
+    "row_number": 59,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q30": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 60,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q31": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to resend email request and/or call Allstate Desk Adjuster until approval or rejection confirmation given. Then notate XactAnalysis with Allstate Desk Adjuster response.",
+    "row_number": 61,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q32": {
+    "question_text": "If Manager completed LADDER ASSIST APPROVAL, is the TA at fault?",
+    "row_number": 62,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q33": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 63,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q34": {
+    "question_text": "Manager's game plan.",
+    "row_number": 64,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q35": {
+    "question_text": "Customer Contacted timestamp?",
+    "row_number": 65,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q36": {
+    "question_text": "Was First Contact completed within 24 hours  (If answer is no, answer the below questions, then set a 24 hour timer and create a sub form with same questions to be completed once the timer expires)",
+    "row_number": 66,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q37": {
+    "question_text": "If no: Number of attempts within 24 hours:",
+    "row_number": 67,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q38": {
+    "question_text": "If no: If First Contact was not made within 24 hours, why not?",
+    "row_number": 68,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q39": {
+    "question_text": "Is the TA at fault?",
+    "row_number": 69,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q40": {
+    "question_text": "Was the Assignment cancelled by Allstate or the Insured/Public Adjuster/Attorney?",
+    "row_number": 70,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q41": {
+    "question_text": "If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?",
+    "row_number": 71,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q42": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 72,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q43": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 73,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q44": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 74,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q45": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 75,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q46": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 76,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q47": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 77,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q48": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 78,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q49": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 79,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q50": {
+    "question_text": "Manager's game plan.",
+    "row_number": 80,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q51": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 81,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q52": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 82,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q53": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 83,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q54": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 84,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q55": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 85,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q56": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 86,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q57": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 87,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q58": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 88,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q59": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 89,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q60": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 90,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q61": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 91,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q62": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 92,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q63": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 93,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q64": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 94,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q65": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 95,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q66": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 96,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q67": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 97,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q68": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 98,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q69": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 99,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q70": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 100,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q71": {
+    "question_text": "Manager's game plan.",
+    "row_number": 101,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q72": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 102,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q73": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 103,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q74": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 104,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q75": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 105,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q76": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 106,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q77": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 107,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q78": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 108,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q79": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 109,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q80": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 110,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q81": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 111,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q82": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 112,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q83": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 113,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q84": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 114,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q85": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 115,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q86": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 116,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q87": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 117,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q88": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 118,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q89": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 119,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q90": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 120,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q91": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 121,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q92": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 122,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q93": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 123,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q94": {
+    "question_text": "Manager's game plan.",
+    "row_number": 124,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q95": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 125,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q96": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 126,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q97": {
+    "question_text": "What action plan is the Manager proposing at this stage of the review?",
+    "row_number": 127,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q98": {
+    "question_text": "If claim is not reassigned: Task Adjuster to send a \"no contact\" EMAIL to Insured/Attorney/Public Adjuster. Does Task Adjuster EMAIL require GIA review?",
+    "row_number": 128,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q99": {
+    "question_text": "(Review not required) Did TA send a \"no contact\" EMAIL to Allstate Desk Adjuster?",
+    "row_number": 129,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q100": {
+    "question_text": "If no EMAIL sent: Why not?",
+    "row_number": 130,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q101": {
+    "question_text": "If no EMAIL sent: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 131,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q102": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 132,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q103": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 133,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q104": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.",
+    "row_number": 134,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q105": {
+    "question_text": "If Manager completed EMAIL, is the TA at fault?",
+    "row_number": 135,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q106": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 136,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q107": {
+    "question_text": "Manager's game plan.",
+    "row_number": 137,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q108": {
+    "question_text": "Once EMAIL sent: Review sent email. Does the EMAIL meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 138,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q109": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 139,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q110": {
+    "question_text": "Once EMAIL sent: Document actual date and time EMAIL sent to Allstate Desk Adjuster.",
+    "row_number": 140,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q111": {
+    "question_text": "(Review required) Did TA upload a \"no contact\" EMAIL draft to Teams channel for review?",
+    "row_number": 141,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q112": {
+    "question_text": "\"No contact\" eMail uploaded to Teams: Does the EMAIL meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 142,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q113": {
+    "question_text": "Once the EMAIL is sent: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 143,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q114": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 144,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q115": {
+    "question_text": "If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 145,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q116": {
+    "question_text": "Has EMAIL been approved?",
+    "row_number": 146,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q117": {
+    "question_text": "If yes: Did the TA send the EMAIL?",
+    "row_number": 147,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q118": {
+    "question_text": "Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.",
+    "row_number": 148,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q119": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 149,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q120": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 150,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q121": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 151,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q122": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to send the EMAIL.",
+    "row_number": 152,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q123": {
+    "question_text": "If Manager sent the EMAIL, is the TA at fault?",
+    "row_number": 153,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q124": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 154,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q125": {
+    "question_text": "Manager's game plan.",
+    "row_number": 155,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q126": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 156,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q127": {
+    "question_text": "If no EMAIL received: Why not?",
+    "row_number": 157,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q128": {
+    "question_text": "If no EMAIL received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 158,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q129": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 159,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q130": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 160,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q131": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.",
+    "row_number": 161,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q132": {
+    "question_text": "If Manager completed EMAIL, is the TA at fault?",
+    "row_number": 162,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q133": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 163,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q134": {
+    "question_text": "Manager's game plan.",
+    "row_number": 164,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q135": {
+    "question_text": "\"No contact\" eMail uploaded to Teams: Does the EMAIL meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 165,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q136": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 166,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q137": {
+    "question_text": "If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 167,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q138": {
+    "question_text": "Has EMAIL been approved?",
+    "row_number": 168,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q139": {
+    "question_text": "If yes: Did the Task Adjuster send the EMAIL to the Allstate general email address?",
+    "row_number": 169,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q140": {
+    "question_text": "Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.",
+    "row_number": 170,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q141": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 171,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q142": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 172,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q143": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 173,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q144": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.",
+    "row_number": 174,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q145": {
+    "question_text": "If Manager completed EMAIL, is the TA at fault?",
+    "row_number": 175,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q146": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 176,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q147": {
+    "question_text": "Manager's game plan.",
+    "row_number": 177,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q148": {
+    "question_text": "Once EMAIL sent: Document actual date and time EMAIL sent to Allstate general email address.",
+    "row_number": 178,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q149": {
+    "question_text": "If claim is not reassigned: Is TA email for \"no inspection within 72 hours\" status report to Allstate Desk Adjuster needed?",
+    "row_number": 179,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q150": {
+    "question_text": "If yes: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 180,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q151": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 181,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q152": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 182,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q153": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 183,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q154": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 184,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q155": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 185,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q156": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 186,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q157": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 187,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q158": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 188,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q159": {
+    "question_text": "Manager's game plan.",
+    "row_number": 189,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q160": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 190,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q161": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 191,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q162": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 192,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q163": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 193,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q164": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 194,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q165": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 195,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q166": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 196,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q167": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 197,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q168": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 198,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q169": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 199,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q170": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 200,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q171": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 201,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q172": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 202,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q173": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 203,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q174": {
+    "question_text": "Has status report been approved?",
+    "row_number": 204,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q175": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 205,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q176": {
+    "question_text": "Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.",
+    "row_number": 206,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q177": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 207,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q178": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 208,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q179": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 209,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q180": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 210,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q181": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 211,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q182": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 212,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q183": {
+    "question_text": "Manager's game plan.",
+    "row_number": 213,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q184": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 214,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q185": {
+    "question_text": "If claim is not reassigned: Has the Task Adjuster attempted contact for more than 7 days with NO voice-to-voice NOR email/text from the Insured/Public Adjuster/Attorney?",
+    "row_number": 215,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q186": {
+    "question_text": "If yes: The next course of action is to send the assignment back to Allstate. Does the Task Adjuster GLR require GIA review?",
+    "row_number": 216,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q187": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 217,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q188": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 218,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q189": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 219,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q190": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 220,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q191": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 221,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q192": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 222,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q193": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 223,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q194": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 224,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q195": {
+    "question_text": "Manager's game plan.",
+    "row_number": 225,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q196": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 226,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q197": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 227,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q198": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 228,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q199": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 229,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q200": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 230,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q201": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 231,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q202": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 232,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q203": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 233,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q204": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 234,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q205": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 235,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q206": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 236,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q207": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 237,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q208": {
+    "question_text": "Manager's game plan.",
+    "row_number": 238,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q209": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 239,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q210": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 240,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q211": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 241,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q212": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 242,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q213": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 243,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q214": {
+    "question_text": "Once the EMAIL is sent: Document actual date and time EMAIL uploaded to XactAnalysis.",
+    "row_number": 244,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q215": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 245,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q216": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 246,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q217": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 247,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q218": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 248,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q219": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 249,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q220": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 250,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q221": {
+    "question_text": "Manager's game plan.",
+    "row_number": 251,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q222": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 252,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q223": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 253,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q224": {
+    "question_text": "Was First Contact completed within 24 hours  (If answer is no, create a sub form with same questions  and 24 hour timer)",
+    "row_number": 254,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q225": {
+    "question_text": "If no: Number of attempts within 24 hours:",
+    "row_number": 255,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q226": {
+    "question_text": "If no: If First Contact was not made within 24 hours, why not?",
+    "row_number": 256,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q227": {
+    "question_text": "Is the TA at fault?",
+    "row_number": 257,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q228": {
+    "question_text": "Was the Assignment cancelled by Allstate or the Insured/Public Adjuster/Attorney?",
+    "row_number": 258,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q229": {
+    "question_text": "If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?",
+    "row_number": 259,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q230": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 260,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q231": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 261,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q232": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 262,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q233": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 263,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q234": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 264,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q235": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 265,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q236": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 266,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q237": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 267,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q238": {
+    "question_text": "Manager's game plan.",
+    "row_number": 268,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q239": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 269,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q240": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 270,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q241": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 271,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q242": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 272,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q243": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 273,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q244": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 274,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q245": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 275,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q246": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 276,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q247": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 277,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q248": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 278,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q249": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 279,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q250": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 280,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q251": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 281,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q252": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 282,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q253": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 283,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q254": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 284,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q255": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 285,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q256": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 286,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q257": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 287,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q258": {
+    "question_text": "Manager's game plan.",
+    "row_number": 288,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q259": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 289,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q260": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 290,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q261": {
+    "question_text": "What action plan is the Manager proposing at this stage of the review?",
+    "row_number": 291,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q262": {
+    "question_text": "If claim is not reassigned: Task Adjuster to send a \"no contact\" EMAIL to Insured/Attorney/Public Adjuster. Does Task Adjuster EMAIL require GIA review?",
+    "row_number": 292,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q263": {
+    "question_text": "(Review not required) Did TA send a \"no contact\" EMAIL to Allstate Desk Adjuster?",
+    "row_number": 293,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q264": {
+    "question_text": "If no EMAIL sent: Why not?",
+    "row_number": 294,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q265": {
+    "question_text": "If no EMAIL sent: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 295,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q266": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 296,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q267": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 297,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q268": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.",
+    "row_number": 298,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q269": {
+    "question_text": "If Manager completed EMAIL, is the TA at fault?",
+    "row_number": 299,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q270": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 300,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q271": {
+    "question_text": "Manager's game plan.",
+    "row_number": 301,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q272": {
+    "question_text": "Once EMAIL sent: Review sent email. Does the EMAIL meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 302,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q273": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 303,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q274": {
+    "question_text": "Once EMAIL sent: Document actual date and time EMAIL sent to Allstate Desk Adjuster.",
+    "row_number": 304,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q275": {
+    "question_text": "(Review required) Did TA upload a \"no contact\" EMAIL draft to Teams channel for review?",
+    "row_number": 305,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q276": {
+    "question_text": "If no EMAIL received: Why not?",
+    "row_number": 306,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q277": {
+    "question_text": "If no EMAIL received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 307,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q278": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 308,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q279": {
+    "question_text": "Once EMAIL received and reviewed: Does the EMAIL meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 309,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q280": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 310,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q281": {
+    "question_text": "If EMAIL rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 311,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q282": {
+    "question_text": "Has EMAIL been approved?",
+    "row_number": 312,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q283": {
+    "question_text": "If yes: Did the Task Adjuster send the EMAIL to the Allstate general email address?",
+    "row_number": 313,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q284": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to send the EMAIL. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 314,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q285": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 315,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q286": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 316,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q287": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the EMAIL.",
+    "row_number": 317,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q288": {
+    "question_text": "If Manager completed EMAIL, is the TA at fault?",
+    "row_number": 318,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q289": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 319,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q290": {
+    "question_text": "Manager's game plan.",
+    "row_number": 320,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q291": {
+    "question_text": "Once EMAIL sent: Document actual date and time EMAIL sent to Allstate general email address.",
+    "row_number": 321,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q292": {
+    "question_text": "If claim is not reassigned: Is TA email for \"no inspection within 72 hours\" status report to Allstate Desk Adjuster needed?",
+    "row_number": 322,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q293": {
+    "question_text": "If yes: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 323,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q294": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 324,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q295": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 325,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q296": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 326,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q297": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 327,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q298": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 328,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q299": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 329,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q300": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 330,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q301": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 331,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q302": {
+    "question_text": "Manager's game plan.",
+    "row_number": 332,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q303": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 333,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q304": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 334,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q305": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 335,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q306": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 336,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q307": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 337,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q308": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 338,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q309": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 339,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q310": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 340,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q311": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 341,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q312": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 342,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q313": {
+    "question_text": "Has status report been approved?",
+    "row_number": 343,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q314": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 344,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q315": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 345,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q316": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 346,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q317": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 347,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q318": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 348,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q319": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 349,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q320": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 350,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q321": {
+    "question_text": "Manager's game plan.",
+    "row_number": 351,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q322": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 352,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q323": {
+    "question_text": "If claim is not reassigned: Has the Task Adjuster attempted contact for more than 7 days with NO voice-to-voice NOR email/text from the Insured/Public Adjuster/Attorney?",
+    "row_number": 353,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q324": {
+    "question_text": "If yes: The next course of action is to send the assignment back to Allstate. Does the Task Adjuster GLR require GIA review?",
+    "row_number": 354,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q325": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 355,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q326": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 356,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q327": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 357,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q328": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 358,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q329": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 359,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q330": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 360,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q331": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 361,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q332": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 362,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q333": {
+    "question_text": "Manager's game plan.",
+    "row_number": 363,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q334": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 364,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q335": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 365,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q336": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 366,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q337": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 367,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q338": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 368,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q339": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 369,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q340": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 370,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q341": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 371,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q342": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 372,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q343": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 373,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q344": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 374,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q345": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 375,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q346": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 376,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q347": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 377,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q348": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 378,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q349": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 379,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q350": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 380,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q351": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 381,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q352": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 382,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q353": {
+    "question_text": "Manager's game plan.",
+    "row_number": 383,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q354": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 384,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q355": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 385,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q356": {
+    "question_text": "Planned Inspection timestamp?",
+    "row_number": 389,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q357": {
+    "question_text": "Is Planned Inspection TIMESTAMP missing?",
+    "row_number": 390,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q358": {
+    "question_text": "If yes: Was the Planned Inspection date and time documented in XactAnalysis NOTES from the First Contact call/email?",
+    "row_number": 391,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q359": {
+    "question_text": "If yes: Why is the Planned Inspection timestamp not updated?",
+    "row_number": 392,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q360": {
+    "question_text": "If Task Adjuster did not enter data: Manager should update Planned Inspection timestamp in XactAnalysis now.",
+    "row_number": 393,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q361": {
+    "question_text": "If system error - unable to update timestamp: Manager should continue to check XactAnalysis until updated: (set 2 hr timer to check back on Planned Inspection timestamp update, but continue moving forward with claim)",
+    "row_number": 394,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q362": {
+    "question_text": "If no: Why is the Inspection not scheduled?",
+    "row_number": 395,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q363": {
+    "question_text": "If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?",
+    "row_number": 396,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q364": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 397,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q365": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 398,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q366": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 399,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q367": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 400,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q368": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 401,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q369": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 402,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q370": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 403,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q371": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 404,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q372": {
+    "question_text": "Manager's game plan.",
+    "row_number": 405,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q373": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 406,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q374": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 407,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q375": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 408,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q376": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 409,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q377": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 410,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q378": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 411,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q379": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 412,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q380": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 413,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q381": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 414,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q382": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 415,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q383": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 416,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q384": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 417,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q385": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 418,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q386": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 419,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q387": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 420,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q388": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 421,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q389": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 422,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q390": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 423,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q391": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 424,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q392": {
+    "question_text": "Manager's game plan.",
+    "row_number": 425,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q393": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 426,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q394": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 427,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q395": {
+    "question_text": "If yes: What action plan is the Manager proposing at this stage of the review? - Reassign or do not reassign?",
+    "row_number": 428,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q396": {
+    "question_text": "Will TA complete the Site Inspection within 72 hours receipt of assignment?",
+    "row_number": 429,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q397": {
+    "question_text": "If no: Why not?",
+    "row_number": 430,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q398": {
+    "question_text": "If inspection delay or inclement weather: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 431,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q399": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 432,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q400": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 433,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q401": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 434,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q402": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 435,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q403": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 436,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q404": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 437,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q405": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 438,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q406": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 439,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q407": {
+    "question_text": "Manager's game plan.",
+    "row_number": 440,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q408": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 441,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q409": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 442,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q410": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 443,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q411": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 444,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q412": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 445,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q413": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 446,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q414": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 447,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q415": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 448,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q416": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 449,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q417": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 450,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q418": {
+    "question_text": "Has status report been approved?",
+    "row_number": 451,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q419": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 452,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q420": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 453,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q421": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 454,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q422": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 455,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q423": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 456,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q424": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 457,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q425": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 458,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q426": {
+    "question_text": "Manager's game plan.",
+    "row_number": 459,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q427": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 460,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q428": {
+    "question_text": "If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?",
+    "row_number": 461,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q429": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 462,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q430": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 463,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q431": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 464,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q432": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 465,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q433": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 466,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q434": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 467,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q435": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 468,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q436": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 469,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q437": {
+    "question_text": "Manager's game plan.",
+    "row_number": 470,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q438": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 471,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q439": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 472,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q440": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 473,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q441": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 474,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q442": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 475,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q443": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 476,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q444": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 477,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q445": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 478,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q446": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 479,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q447": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 480,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q448": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 481,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q449": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 482,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q450": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 483,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q451": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 484,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q452": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 485,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q453": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 486,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q454": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 487,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q455": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 488,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q456": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 489,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q457": {
+    "question_text": "Manager's game plan.",
+    "row_number": 490,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q458": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 491,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q459": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 492,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q460": {
+    "question_text": "If OTHER: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 493,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q461": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 494,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q462": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 495,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q463": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 496,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q464": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 497,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q465": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 498,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q466": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 499,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q467": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 500,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q468": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 501,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q469": {
+    "question_text": "Manager's game plan.",
+    "row_number": 502,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q470": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 503,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q471": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 504,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q472": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 505,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q473": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 506,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q474": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 507,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q475": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 508,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q476": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 509,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q477": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 510,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q478": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 511,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q479": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 512,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q480": {
+    "question_text": "Has status report been approved?",
+    "row_number": 513,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q481": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 514,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q482": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 515,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q483": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 516,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q484": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 517,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q485": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 518,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q486": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 519,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q487": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 520,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q488": {
+    "question_text": "Manager's game plan.",
+    "row_number": 521,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q489": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 522,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q490": {
+    "question_text": "Will estimate, photos and sketch be submitted to Allstate within 7 days of receipt of claim?",
+    "row_number": 525,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q491": {
+    "question_text": "If estimate package cannot be returned within 7 days: Why not?",
+    "row_number": 526,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q492": {
+    "question_text": "If estimate package cannot be returned within 7 days: Is Task Adjuster at fault?",
+    "row_number": 527,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q493": {
+    "question_text": "Did TA email a \"no return within 7 days\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 528,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q494": {
+    "question_text": "If yes: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 529,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q495": {
+    "question_text": "(Review not required) Did TA email a \"no return within 7 days\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 530,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q496": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 531,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q497": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 532,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q498": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 533,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q499": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 534,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q500": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 535,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q501": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 536,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q502": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 537,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q503": {
+    "question_text": "Manager's game plan.",
+    "row_number": 538,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q504": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 539,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q505": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 540,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q506": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 541,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q507": {
+    "question_text": "(Review required) Did TA upload a \"no return within 7 days\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 542,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q508": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 543,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q509": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 544,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q510": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 545,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q511": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 546,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q512": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 547,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q513": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 548,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q514": {
+    "question_text": "Has status report been approved?",
+    "row_number": 549,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q515": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 550,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q516": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 551,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q517": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 552,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q518": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 553,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q519": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 554,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q520": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 555,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q521": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 556,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q522": {
+    "question_text": "Manager's game plan.",
+    "row_number": 557,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q523": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 558,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q524": {
+    "question_text": "Did the Task Adjuster's file note(s) in XactAnalysis meet service level standards?",
+    "row_number": 560,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q525": {
+    "question_text": "If no: Select all that apply.",
+    "row_number": 561,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q526": {
+    "question_text": "Do errors warrant an updated file note in XactAnalysis?",
+    "row_number": 562,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q527": {
+    "question_text": "If yes: Send REPLY to thread on Teams Channel to update the file note in XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 563,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q528": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 564,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q529": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 565,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q530": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to update the file note in XactAnalysis.",
+    "row_number": 566,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q531": {
+    "question_text": "If Manager completed the XactAnalysis NOTES, is the TA at fault?",
+    "row_number": 567,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q532": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 568,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q533": {
+    "question_text": "Manager's game plan.",
+    "row_number": 569,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q534": {
+    "question_text": "Planned Inspection timestamp change? (sub form if Planned Inspection timestamp changes from original data entry)",
+    "row_number": 570,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q535": {
+    "question_text": "Did the TA update the Planned Inspection timestamp?",
+    "row_number": 571,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q536": {
+    "question_text": "If yes: Why did the Planned Inspection timestamp change?",
+    "row_number": 572,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q537": {
+    "question_text": "Does the Planned Inspection timestamp change affect the timeline of the claim?",
+    "row_number": 573,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q538": {
+    "question_text": "If yes: What action plan is the Manager proposing at this stage of the review? - Reassign or do not reassign?",
+    "row_number": 574,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q539": {
+    "question_text": "Will TA complete the Site Inspection within 72 hours receipt of assignment? (this series of sub form questions should go under row 279 - if the planned inspection timestamp change affects the timeline of the claim…)",
+    "row_number": 575,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q540": {
+    "question_text": "If no: Why not?",
+    "row_number": 576,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q541": {
+    "question_text": "If inspection delay or inclement weather: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 577,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q542": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 578,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q543": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 579,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q544": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 580,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q545": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 581,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q546": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 582,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q547": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 583,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q548": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 584,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q549": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 585,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q550": {
+    "question_text": "Manager's game plan.",
+    "row_number": 586,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q551": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 587,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q552": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 588,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q553": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 589,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q554": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 590,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q555": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 591,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q556": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 592,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q557": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 593,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q558": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 594,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q559": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 595,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q560": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 596,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q561": {
+    "question_text": "Has status report been approved?",
+    "row_number": 597,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q562": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 598,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q563": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 599,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q564": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 600,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q565": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 601,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q566": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 602,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q567": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 603,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q568": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 604,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q569": {
+    "question_text": "Manager's game plan.",
+    "row_number": 605,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q570": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 606,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q571": {
+    "question_text": "If assignment was cancelled by Allstate or the Insured/Public Adjuster/Attorney: Does the Task Adjuster GLR require GIA review?",
+    "row_number": 607,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q572": {
+    "question_text": "(Review not required) Did TA upload the GLR to XactAnalysis?",
+    "row_number": 608,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q573": {
+    "question_text": "If no GLR uploaded: Why not?",
+    "row_number": 609,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q574": {
+    "question_text": "If no GLR uploaded: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 610,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q575": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 611,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q576": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 612,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q577": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 613,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q578": {
+    "question_text": "If Manager completed GLR, is the TA at fault?",
+    "row_number": 614,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q579": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 615,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q580": {
+    "question_text": "Manager's game plan.",
+    "row_number": 616,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q581": {
+    "question_text": "Once GLR uploaded: Review uploaded GLR. Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 617,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q582": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 618,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q583": {
+    "question_text": "Once approved GLR uploaded: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 619,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q584": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 620,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q585": {
+    "question_text": "(Review required) Did TA upload a GLR Word document to Teams channel for review?",
+    "row_number": 621,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q586": {
+    "question_text": "If no GLR uploaded to Teams for review: Why not?",
+    "row_number": 622,
+    "dropdown_options": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other"
+    ]
+  },
+  "Q587": {
+    "question_text": "If no GLR uploaded to Teams for review: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 623,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q588": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 624,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q589": {
+    "question_text": "GLR uploaded to Teams: Does the GLR meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 625,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q590": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 626,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q591": {
+    "question_text": "If GLR rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 627,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q592": {
+    "question_text": "Has GLR been approved?",
+    "row_number": 628,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q593": {
+    "question_text": "If yes: Did the TA upload the GLR to XactAnalysis?",
+    "row_number": 629,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q594": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to upload GLR to XactAnalysis. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 630,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q595": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 631,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q596": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 632,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q597": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the GLR.",
+    "row_number": 633,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q598": {
+    "question_text": "If Manager completed the GLR, is the TA at fault?",
+    "row_number": 634,
+    "dropdown_options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Under Investigation",
+      "Not Applicable"
+    ]
+  },
+  "Q599": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 635,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q600": {
+    "question_text": "Manager's game plan.",
+    "row_number": 636,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q601": {
+    "question_text": "Once the GLR is uploaded to XactAnalysis: Document actual date and time GLR uploaded to XactAnalysis.",
+    "row_number": 637,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q602": {
+    "question_text": "Once completed, go to Manager Review and complete T&E invoice.",
+    "row_number": 638,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q603": {
+    "question_text": "If OTHER: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 639,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q604": {
+    "question_text": "(Review not required) Did TA email a \"no inspection within 72 hours\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 640,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q605": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 641,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q606": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 642,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q607": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 643,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q608": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 644,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q609": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 645,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q610": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 646,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q611": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 647,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q612": {
+    "question_text": "Manager's game plan.",
+    "row_number": 648,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q613": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 649,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q614": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 650,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q615": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 651,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q616": {
+    "question_text": "(Review required) Did TA upload a \"no inspection within 72 hours\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 652,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q617": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 653,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q618": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 654,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q619": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 655,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q620": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 656,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q621": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 657,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q622": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 658,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q623": {
+    "question_text": "Has status report been approved?",
+    "row_number": 659,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q624": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 660,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q625": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 661,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q626": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 662,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q627": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 663,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q628": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 664,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q629": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 665,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q630": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 666,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q631": {
+    "question_text": "Manager's game plan.",
+    "row_number": 667,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q632": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 668,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q633": {
+    "question_text": "Estimated Date of Return to Allstate Desk Adjuster (set time 7 days from Date entered assignment queue)",
+    "row_number": 669,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q634": {
+    "question_text": "Expected Date of Return (based on 48 hours after Planned Inspection timestamp):",
+    "row_number": 670,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q635": {
+    "question_text": "Will estimate, photos and sketch be submitted to Allstate within 7 days of receipt of claim?",
+    "row_number": 671,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q636": {
+    "question_text": "If estimate package cannot be returned within 7 days: Why not?",
+    "row_number": 672,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q637": {
+    "question_text": "If estimate package cannot be returned within 7 days: Is Task Adjuster at fault?",
+    "row_number": 673,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q638": {
+    "question_text": "Did TA email a \"no return within 7 days\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 674,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q639": {
+    "question_text": "If yes: Does Task Adjuster Status Report require GIA review?",
+    "row_number": 675,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q640": {
+    "question_text": "(Review not required) Did TA email a \"no return within 7 days\" STATUS REPORT to Allstate Desk Adjuster?",
+    "row_number": 676,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q641": {
+    "question_text": "If no STATUS REPORT emailed: Why not?",
+    "row_number": 677,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q642": {
+    "question_text": "If no STATUS REPORT emailed: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 678,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q643": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 679,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q644": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 680,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q645": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 681,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q646": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 682,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q647": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 683,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q648": {
+    "question_text": "Manager's game plan.",
+    "row_number": 684,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q649": {
+    "question_text": "Once STATUS REPORT emailed: Review sent doc. Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 685,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q650": {
+    "question_text": "If no: Explain issues found.",
+    "row_number": 686,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q651": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 687,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q652": {
+    "question_text": "(Review required) Did TA upload a \"no return within 7 days\" STATUS REPORT Word document to Teams channel for review?",
+    "row_number": 688,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q653": {
+    "question_text": "If no STATUS REPORT received: Why not?",
+    "row_number": 689,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q654": {
+    "question_text": "If no STATUS REPORT received: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 690,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q655": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 691,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q656": {
+    "question_text": "Once STATUS REPORT received and reviewed: Does the STATUS REPORT meet QA standards (grammar, punctuation, etc)?",
+    "row_number": 692,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q657": {
+    "question_text": "If rejected: Explain issues found.",
+    "row_number": 693,
+    "dropdown_options": [
+      "Grammar errors",
+      "Punctuation errors",
+      "Spelling errors",
+      "Format issues",
+      "Content problems",
+      "Other"
+    ]
+  },
+  "Q658": {
+    "question_text": "If STATUS REPORT rejected: Send REPLY to thread on Teams Channel. (Can we create an 4 hr internal countdown for this question?)",
+    "row_number": 694,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q659": {
+    "question_text": "Has status report been approved?",
+    "row_number": 695,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q660": {
+    "question_text": "If yes: Did the TA email the STATUS REPORT to the Allstate?",
+    "row_number": 696,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q661": {
+    "question_text": "If no: Send REPLY to thread on Teams Channel to email the STATUS REPORT. (set 4 hr timer, do not move forward with review until completed)",
+    "row_number": 697,
+    "dropdown_options": [
+      "Yes",
+      "No"
+    ]
+  },
+  "Q662": {
+    "question_text": "What is the status of the Manager's request?",
+    "row_number": 698,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q663": {
+    "question_text": "What is the Plan of Action?",
+    "row_number": 699,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q664": {
+    "question_text": "If UNRESPONSIVE, the Manager's course of action is to complete the STATUS REPORT.",
+    "row_number": 700,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q665": {
+    "question_text": "If Manager completed STATUS REPORT, is the TA at fault?",
+    "row_number": 701,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q666": {
+    "question_text": "Resolution of Manager's request?",
+    "row_number": 702,
+    "dropdown_options": [
+      "Resolved",
+      "Pending",
+      "Escalated",
+      "Closed",
+      "Under Investigation",
+      "Other"
+    ]
+  },
+  "Q667": {
+    "question_text": "Manager's game plan.",
+    "row_number": 703,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q668": {
+    "question_text": "Once STATUS REPORT sent: Document actual date and time STATUS REPORT sent to Allstate Desk Adjuster.",
+    "row_number": 704,
+    "dropdown_options": [
+      "Pending",
+      "In Progress",
+      "Completed",
+      "Approved",
+      "Rejected",
+      "Under Review",
+      "Escalated",
+      "Cancelled"
+    ]
+  },
+  "Q669": {
+    "question_text": "If cells are outlined in orange and the letters are blue, this means it's a date/time timestamp from XactAnalysis.",
+    "row_number": 711,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q670": {
+    "question_text": "If cells are outlined in orange and the letters are light purple, this means it's a timer due date/time based on the data from XactAnalysis.",
+    "row_number": 712,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  },
+  "Q671": {
+    "question_text": "The blue background represents an alarm which is an important stopping point in the claim",
+    "row_number": 713,
+    "dropdown_options": [
+      "choose one",
+      "TA in process of completing claim setup.",
+      "Other"
+    ]
+  },
+  "Q672": {
+    "question_text": "The beige background represents cells throughout this process to reassign the claim. Additionally, if a cell includes the phrase \"What is the Plan of Action?\" this is also an opportunity to reassign the claim.",
+    "row_number": 714,
+    "dropdown_options": [
+      "Reassign to different adjuster",
+      "Provide additional training",
+      "Monitor closely",
+      "Escalate to supervisor",
+      "Continue current approach",
+      "Close claim",
+      "Other"
+    ]
+  },
+  "Q673": {
+    "question_text": "The pink strip with grey background represent a sub form if a timestamp is either missing after the due date or a timestamp date/time is changed.",
+    "row_number": 715,
+    "dropdown_options": [
+      "Enter date/time"
+    ]
+  }
+}
