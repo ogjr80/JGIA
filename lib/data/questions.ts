@@ -1,28 +1,71 @@
+export interface DropdownData {
+  raw_value: string;
+  parsed_options: string[];
+  option_count: number;
+}
+
+export interface ConditionalLogic {
+  // New fields from complete data
+  parent_id?: string;
+  trigger_condition?: string;
+  level?: number;
+  parent_text?: string;
+  question_text?: string;
+  // Legacy fields for backward compatibility
+  parentId?: string;
+  triggerCondition?: string;
+  showIf?: {
+    questionId: string
+    value: string | string[]
+  }[]
+}
+
 export interface Question {
   id: string
-  questionText: string
-  questionType: 'text' | 'select' | 'multiselect' | 'textarea' | 'date' | 'checkbox' | 'file'
+  // New fields from complete data
+  text?: string
+  level?: number
+  colorCode?: string
+  isConditional?: boolean
   parentQuestionId?: string
-  hierarchyLevel: number
-  sectionName: string
-  displayOrder: number
-  conditionalLogic?: {
-    showIf: {
-      questionId: string
-      value: string | string[]
-    }[]
-  }
+  answerType?: string
+  dropdownData?: Record<string, DropdownData>
+  conditionalLogic?: ConditionalLogic
+  // Legacy fields for backward compatibility
+  questionText?: string
+  questionType?: 'text' | 'select' | 'multiselect' | 'textarea' | 'date' | 'checkbox' | 'file'
+  hierarchyLevel?: number
+  sectionName?: string
+  displayOrder?: number
   validationRules?: {
     required?: boolean
     minLength?: number
     maxLength?: number
     pattern?: string
   }
-  colorCode: 'yellow' | 'blue' | 'green' | 'orange' | 'red'
-  isRequired: boolean
+  isRequired?: boolean
   dropdownOptions?: string[]
   placeholder?: string
   helpText?: string
+}
+
+export interface QuestionGroup {
+  id: string;
+  name: string;
+  questions: Question[];
+}
+
+export interface QuestionSystemMetadata {
+  total_groups: number;
+  total_questions: number;
+  total_conditional_relationships: number;
+}
+
+export interface QuestionSystem {
+  version: string;
+  description: string;
+  metadata: QuestionSystemMetadata;
+  groups: Record<string, QuestionGroup>;
 }
 
 export interface WorkflowResponse {
@@ -426,6 +469,191 @@ export const sampleQuestions: Question[] = [
     isRequired: true
   }
 ]
+
+// Load complete question data
+let completeQuestionData: QuestionSystem | null = null;
+
+export async function loadCompleteQuestionData(): Promise<QuestionSystem> {
+  if (completeQuestionData) {
+    return completeQuestionData;
+  }
+  
+  try {
+    const response = await fetch('/data/complete_questions_data.json');
+    const data = await response.json();
+    completeQuestionData = data;
+    return data;
+  } catch (error) {
+    console.error('Failed to load complete question data:', error);
+    // Fallback to sample data
+    return {
+      version: "1.0.0",
+      description: "Sample Question System",
+      metadata: {
+        total_groups: 1,
+        total_questions: sampleQuestions.length,
+        total_conditional_relationships: 0
+      },
+      groups: {
+        "sample": {
+          id: "sample",
+          name: "Sample Questions",
+          questions: sampleQuestions
+        }
+      }
+    };
+  }
+}
+
+// Get dropdown options from column D for a question
+export function getDropdownOptions(question: Question): string[] {
+  console.log(`Getting dropdown options for question ${question.id}:`, {
+    answerType: question.answerType,
+    text: question.text,
+    dropdownData: question.dropdownData
+  });
+  
+  // Always use column D options if available and not just "Choose one"
+  if (question.dropdownData && question.dropdownData.D && question.dropdownData.D.parsed_options.length > 0) {
+    const options = question.dropdownData.D.parsed_options;
+    // If it's just "Choose one", use intelligent mapping instead
+    if (options.length === 1 && options[0] === 'Choose one') {
+      console.log(`Column D has "Choose one", using intelligent mapping`);
+      return getIntelligentOptions(question);
+    }
+    console.log(`Using column D options:`, options);
+    return options;
+  }
+  
+  // Fallback to legacy dropdownOptions
+  if (question.dropdownOptions && question.dropdownOptions.length > 0) {
+    console.log(`Using legacy dropdownOptions:`, question.dropdownOptions);
+    return question.dropdownOptions;
+  }
+  
+  // Use intelligent mapping based on question text and answer type
+  return getIntelligentOptions(question);
+}
+
+// Intelligent dropdown option selection based on question text patterns
+function getIntelligentOptions(question: Question): string[] {
+  const questionText = (question.text || question.questionText || '').toLowerCase();
+  const answerType = question.answerType;
+  
+  console.log(`Intelligent mapping for question: "${question.text || question.questionText}" (answerType: ${answerType})`);
+  
+  // Yes/No questions
+  if (answerType === 'Yes/No' || answerType === 'Yes' || answerType === 'No' || 
+      questionText.includes('was ') || questionText.includes('is ') || questionText.includes('did ')) {
+    console.log(`Using Yes/No options`);
+    return ['Yes', 'No'];
+  }
+  
+  // Status/Response questions
+  if (questionText.includes('status') || questionText.includes('response') || 
+      questionText.includes('manager') || questionText.includes('request') ||
+      questionText.includes('plan of action') || questionText.includes('resolution')) {
+    console.log(`Using status_response options`);
+    return ['Repeated attempts', 'Unresponsive', 'Other', 'Manager to complete task'];
+  }
+  
+  // Fault questions
+  if (questionText.includes('fault') || questionText.includes('ta at fault')) {
+    console.log(`Using fault options`);
+    return ['Yes', 'No', 'Partially', 'Not Applicable'];
+  }
+  
+  // Review questions
+  if (questionText.includes('review') || questionText.includes('meet') || 
+      questionText.includes('standards') || questionText.includes('qa')) {
+    console.log(`Using quality options`);
+    return ['Yes', 'No-modified', 'No-rejected', 'Review Required', 'Review not required'];
+  }
+  
+  // Upload/Completion questions
+  if (questionText.includes('upload') || questionText.includes('completed') || 
+      questionText.includes('sent') || questionText.includes('received')) {
+    console.log(`Using actions options`);
+    return ['Yes', 'No', 'Enter date/time', 'SKIP TO MANAGER FINAL REVIEW/INVOICE'];
+  }
+  
+  // Why/Reason questions
+  if (questionText.includes('why') || questionText.includes('reason') || 
+      questionText.includes('not') || questionText.includes('why not')) {
+    console.log(`Using reason options`);
+    return ['Technical issue', 'User error', 'System delay', 'Other', 'Repeated attempts', 'Unresponsive'];
+  }
+  
+  // Assignment questions
+  if (questionText.includes('reassign') || questionText.includes('assignment')) {
+    console.log(`Using assignment options`);
+    return ['Do not reassign claim', 'Reassign to different adjuster', 'Escalate to manager'];
+  }
+  
+  // Default fallback
+  console.log(`Using default Yes/No options as fallback`);
+  return ['Yes', 'No'];
+}
+
+// Convert complete question to legacy format for backward compatibility
+export function convertToLegacyQuestion(question: Question, groupName: string): Question {
+  const converted = {
+    ...question,
+    questionText: question.text || question.questionText,
+    questionType: getQuestionType(question.answerType || 'text'),
+    hierarchyLevel: question.level || question.hierarchyLevel || 0,
+    sectionName: groupName,
+    displayOrder: question.displayOrder || 0,
+    isRequired: question.isRequired || false,
+    dropdownOptions: getDropdownOptions(question),
+    colorCode: getColorCode(question.colorCode || 'Default')
+  };
+  
+  console.log(`Converted question ${question.id}:`, {
+    text: converted.questionText,
+    questionType: converted.questionType,
+    dropdownOptions: converted.dropdownOptions,
+    answerType: question.answerType
+  });
+  
+  return converted;
+}
+
+// Map color codes from the data to our UI colors
+function getColorCode(colorCode: string): 'yellow' | 'blue' | 'green' | 'orange' | 'red' {
+  switch (colorCode) {
+    case 'Default':
+      return 'yellow';
+    case 'FFFF9900': // Orange
+      return 'orange';
+    case 'FF0070C0': // Blue
+      return 'blue';
+    case 'FFFF66FF': // Pink/Magenta
+      return 'red';
+    case 'FF00B050': // Green
+      return 'green';
+    default:
+      return 'yellow';
+  }
+}
+
+// Map answer type to question type
+function getQuestionType(answerType: string): 'text' | 'select' | 'multiselect' | 'textarea' | 'date' | 'checkbox' | 'file' {
+  switch (answerType) {
+    case 'Yes/No':
+    case 'Choose one':
+    case 'Yes':  // For conditional questions that should be Yes/No
+    case 'No':   // For conditional questions that should be Yes/No
+      return 'select';
+    case 'Text':
+      return 'textarea';
+    case 'Date/Time':
+      return 'date';
+    default:
+      // If it has dropdown options, make it a select
+      return 'select';
+  }
+}
 
 // Sample workflow responses
 export const sampleWorkflowResponses: WorkflowResponse[] = [

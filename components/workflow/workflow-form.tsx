@@ -1,8 +1,8 @@
 'use client'
 
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
-import { sampleQuestions, WorkflowResponse, Question } from '@/lib/data/questions'
-import { useState, useMemo } from 'react'
+import { sampleQuestions, WorkflowResponse, Question, loadCompleteQuestionData, convertToLegacyQuestion, getDropdownOptions } from '@/lib/data/questions'
+import { useState, useMemo, useEffect } from 'react'
 import { 
   ChevronDown, 
   ChevronRight, 
@@ -21,43 +21,137 @@ interface WorkflowFormProps {
 }
 
 export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowFormProps) {
-  const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set(['Setup & First Contact']))
+  const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set())
   const [autoSave, setAutoSave] = useState(true)
+  const [questions, setQuestions] = useState<Question[]>(sampleQuestions)
+  const [loading, setLoading] = useState(true)
+
+  // Load complete question data on component mount
+  useEffect(() => {
+    const loadQuestions = async () => {
+      try {
+        const questionSystem = await loadCompleteQuestionData()
+        const allQuestions: Question[] = []
+        
+        // Convert all questions from all groups to legacy format
+        Object.entries(questionSystem.groups).forEach(([, group]) => {
+          group.questions.forEach(question => {
+            const legacyQuestion = convertToLegacyQuestion(question, group.name)
+            allQuestions.push(legacyQuestion)
+          })
+        })
+        
+        console.log('Loaded questions:', allQuestions.length)
+        console.log('First few questions:', allQuestions.slice(0, 3))
+        
+        setQuestions(allQuestions)
+        
+        // Auto-expand the first section
+        if (allQuestions.length > 0) {
+          const firstSection = allQuestions[0].sectionName
+          if (firstSection) {
+            setExpandedSections(new Set([firstSection]))
+          }
+        }
+        
+        setLoading(false)
+      } catch (error) {
+        console.error('Failed to load questions:', error)
+        setQuestions(sampleQuestions)
+        setLoading(false)
+      }
+    }
+    
+    loadQuestions()
+  }, [])
 
   // Group questions by section
   const sectionGroups = useMemo(() => {
     const groups: Record<string, Question[]> = {}
-    sampleQuestions.forEach(question => {
-      if (!groups[question.sectionName]) {
-        groups[question.sectionName] = []
+    questions.forEach(question => {
+      const sectionName = question.sectionName || 'Default'
+      if (!groups[sectionName]) {
+        groups[sectionName] = []
       }
-      groups[question.sectionName].push(question)
+      groups[sectionName].push(question)
     })
     
     // Sort questions within each section by display order
     Object.keys(groups).forEach(section => {
-      groups[section].sort((a, b) => a.displayOrder - b.displayOrder)
+      groups[section].sort((a, b) => (a.displayOrder || 0) - (b.displayOrder || 0))
     })
     
     return groups
-  }, [])
+  }, [questions])
 
-  // Get visible questions based on conditional logic
-  const getVisibleQuestions = (sectionQuestions: Question[]) => {
-    return sectionQuestions.filter(question => {
-      if (!question.conditionalLogic) return true
-      
-      return question.conditionalLogic.showIf.every(condition => {
-        const response = responses.find(r => r.questionId === condition.questionId)
-        if (!response) return false
-        
-        if (Array.isArray(condition.value)) {
-          return condition.value.includes(response.responseValue as string)
+  // Get visible questions based on conditional logic - memoized to re-evaluate when responses change
+  const getVisibleQuestions = useMemo(() => {
+    return (sectionQuestions: Question[]) => {
+      return sectionQuestions.filter(question => {
+        // Show level 0 questions by default (no parent)
+        if (question.level === 0) {
+          return true
         }
-        return response.responseValue === condition.value
+        
+        // Handle conditional questions with parentQuestionId
+        if (question.parentQuestionId) {
+          const parentResponse = responses.find(r => r.questionId === question.parentQuestionId)
+          if (!parentResponse) {
+            console.log(`Question ${question.id} hidden: parent ${question.parentQuestionId} not answered`)
+            return false
+          }
+          
+          // Check if the parent's answer matches the trigger condition
+          const parentAnswer = parentResponse.responseValue as string
+          
+          // For questions that start with "> If yes", show if parent answered "Yes"
+          if ((question.text || '').startsWith('> If yes') || question.answerType === 'Yes') {
+            const shouldShow = parentAnswer === 'Yes'
+            console.log(`Question ${question.id} (If yes): parent answered "${parentAnswer}", showing: ${shouldShow}`)
+            return shouldShow
+          }
+          
+          // For questions that start with "> If no", show if parent answered "No"  
+          if ((question.text || '').startsWith('> If no') || question.answerType === 'No') {
+            const shouldShow = parentAnswer === 'No'
+            console.log(`Question ${question.id} (If no): parent answered "${parentAnswer}", showing: ${shouldShow}`)
+            return shouldShow
+          }
+          
+          // For other conditional questions, show if parent has been answered
+          console.log(`Question ${question.id}: parent answered, showing`)
+          return true
+        }
+        
+        // Handle explicit conditional logic structure
+        if (question.conditionalLogic && question.conditionalLogic.parent_id) {
+          const parentResponse = responses.find(r => r.questionId === question.conditionalLogic?.parent_id)
+          if (!parentResponse) return false
+          
+          const triggerValue = question.conditionalLogic.trigger_condition
+          const shouldShow = parentResponse.responseValue === triggerValue
+          console.log(`Question ${question.id}: parent ${question.conditionalLogic.parent_id} answered "${parentResponse.responseValue}", trigger "${triggerValue}", showing: ${shouldShow}`)
+          return shouldShow
+        }
+        
+        // Handle legacy conditional logic structure
+        if (question.conditionalLogic && question.conditionalLogic.showIf) {
+          return question.conditionalLogic.showIf.every(condition => {
+            const response = responses.find(r => r.questionId === condition.questionId)
+            if (!response) return false
+            
+            if (Array.isArray(condition.value)) {
+              return condition.value.includes(response.responseValue as string)
+            }
+            return response.responseValue === condition.value
+          })
+        }
+        
+        console.log(`Question ${question.id}: no conditional logic, hiding`)
+        return false
       })
-    })
-  }
+    }
+  }, [responses]) // Re-evaluate when responses change
 
   // Get response for a question
   const getResponse = (questionId: string) => {
@@ -67,6 +161,7 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
   // Handle input change
   const handleInputChange = (questionId: string, value: string | string[]) => {
     onResponseUpdate(questionId, value)
+    // The memoized getVisibleQuestions will automatically re-evaluate when responses change
   }
 
   // Early return if no claim selected (after all hooks)
@@ -78,6 +173,21 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
           <h3 className="text-lg font-medium text-gray-900 mb-2">No Claim Selected</h3>
           <p className="text-gray-500">
             Please select a claim to begin the workflow process.
+          </p>
+        </CardContent>
+      </Card>
+    )
+  }
+
+  // Loading state
+  if (loading) {
+    return (
+      <Card>
+        <CardContent className="p-12 text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+          <h3 className="text-lg font-medium text-gray-900 mb-2">Loading Questions</h3>
+          <p className="text-gray-500">
+            Loading the complete question system...
           </p>
         </CardContent>
       </Card>
@@ -123,7 +233,7 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
             value={response as string || ''}
             onChange={(e) => handleInputChange(question.id, e.target.value)}
             placeholder={question.placeholder}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
             required={question.isRequired}
           />
         )
@@ -136,23 +246,32 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
             onChange={(e) => handleInputChange(question.id, e.target.value)}
             placeholder={question.placeholder}
             rows={3}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
             required={question.isRequired}
           />
         )
 
       case 'select':
+        const dropdownOptions = getDropdownOptions(question)
+        console.log(`Rendering select for question ${question.id}:`, {
+          options: dropdownOptions,
+          currentValue: response,
+          questionType: question.questionType
+        })
         return (
           <select
             id={fieldId}
             value={response as string || ''}
-            onChange={(e) => handleInputChange(question.id, e.target.value)}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            onChange={(e) => {
+              console.log(`Select changed for question ${question.id}:`, e.target.value)
+              handleInputChange(question.id, e.target.value)
+            }}
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
             required={question.isRequired}
           >
-            <option value="">Select an option...</option>
-            {question.dropdownOptions?.map(option => (
-              <option key={option} value={option}>
+            <option value="" className="text-gray-500">Select an option...</option>
+            {dropdownOptions.map(option => (
+              <option key={option} value={option} className="text-gray-900">
                 {option}
               </option>
             ))}
@@ -160,9 +279,10 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
         )
 
       case 'multiselect':
+        const multiselectOptions = getDropdownOptions(question)
         return (
           <div className="space-y-2">
-            {question.dropdownOptions?.map(option => (
+            {multiselectOptions.map(option => (
               <label key={option} className="flex items-center">
                 <input
                   type="checkbox"
@@ -190,7 +310,7 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
             type="datetime-local"
             value={response as string || ''}
             onChange={(e) => handleInputChange(question.id, e.target.value)}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
             required={question.isRequired}
           />
         )
@@ -256,6 +376,9 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
         const visibleQuestions = getVisibleQuestions(questions)
         const sectionStatus = getSectionStatus(questions)
         
+        console.log(`Section ${sectionName}: ${visibleQuestions.length} visible questions out of ${questions.length} total`)
+        console.log(`Visible questions:`, visibleQuestions.map(q => ({ id: q.id, text: q.text, level: q.level })))
+        
         if (visibleQuestions.length === 0) return null
 
         return (
@@ -317,7 +440,7 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
                             htmlFor={`field_${question.id}`}
                             className="block text-sm font-medium text-gray-900 mb-1"
                           >
-                            {question.questionText}
+                            {question.questionText || question.text}
                             {question.isRequired && (
                               <span className="text-red-500 ml-1">*</span>
                             )}
@@ -345,8 +468,8 @@ export function WorkflowForm({ claimId, responses, onResponseUpdate }: WorkflowF
                         )}
                         
                         <div className="flex items-center justify-between text-xs text-gray-500">
-                          <span>Level {question.hierarchyLevel}</span>
-                          <span>Order: {question.displayOrder}</span>
+                          <span>Level {question.hierarchyLevel || question.level}</span>
+                          <span>Order: {question.displayOrder || 0}</span>
                         </div>
                       </div>
                     )

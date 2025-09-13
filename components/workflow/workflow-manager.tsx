@@ -3,8 +3,8 @@
 import { AnimatedCard, AnimatedCardContent, AnimatedCardHeader, AnimatedCardTitle } from '@/components/ui/animated-card'
 import { PageTransition } from '@/components/ui/page-transition'
 import { sampleClaims } from '@/lib/data/claims'
-import { sampleQuestions, sampleWorkflowResponses, WorkflowResponse } from '@/lib/data/questions'
-import { useState } from 'react'
+import { sampleQuestions, sampleWorkflowResponses, WorkflowResponse, loadCompleteQuestionData, convertToLegacyQuestion, Question } from '@/lib/data/questions'
+import { useState, useEffect } from 'react'
 import { WorkflowForm } from './workflow-form'
 import { 
   FileText, 
@@ -18,20 +18,60 @@ import { motion } from 'framer-motion'
 export function WorkflowManager() {
   const [selectedClaimId, setSelectedClaimId] = useState<string | null>(null)
   const [responses, setResponses] = useState<WorkflowResponse[]>(sampleWorkflowResponses)
+  const [allQuestions, setAllQuestions] = useState(sampleQuestions)
 
   const selectedClaim = selectedClaimId ? sampleClaims.find(c => c.id === selectedClaimId) : null
   const claimResponses = responses.filter(r => r.claimId === selectedClaimId)
 
+  // Debug: Log responses when they change
+  useEffect(() => {
+    console.log('Responses updated:', responses)
+    console.log('Claim responses for selected claim:', claimResponses)
+  }, [responses, claimResponses])
+
+  // Load complete question data
+  useEffect(() => {
+    const loadQuestions = async () => {
+      try {
+        const questionSystem = await loadCompleteQuestionData()
+        const allQuestions: Question[] = []
+        
+        // Convert all questions from all groups to legacy format
+        Object.entries(questionSystem.groups).forEach(([, group]) => {
+          group.questions.forEach(question => {
+            const legacyQuestion = convertToLegacyQuestion(question, group.name)
+            allQuestions.push(legacyQuestion)
+          })
+        })
+        
+        setAllQuestions(allQuestions)
+      } catch (error) {
+        console.error('Failed to load questions in WorkflowManager:', error)
+        setAllQuestions(sampleQuestions)
+      }
+    }
+    
+    loadQuestions()
+  }, [])
+
   const handleResponseUpdate = (questionId: string, value: string | string[]) => {
     if (!selectedClaimId) return
 
+    console.log(`WorkflowManager: Updating response for question ${questionId} with value:`, value)
+
     const existingResponse = responses.find(r => r.claimId === selectedClaimId && r.questionId === questionId)
-    const question = sampleQuestions.find(q => q.id === questionId)
+    const question = allQuestions.find(q => q.id === questionId)
     
-    if (!question) return
+    if (!question) {
+      console.error(`Question ${questionId} not found in allQuestions`)
+      return
+    }
+
+    console.log(`Found question:`, { id: question.id, text: question.text, sectionName: question.sectionName })
 
     if (existingResponse) {
       // Update existing response
+      console.log(`Updating existing response for question ${questionId}`)
       setResponses(prev => prev.map(r => 
         r.id === existingResponse.id 
           ? { ...r, responseValue: value, respondedAt: new Date() }
@@ -39,15 +79,16 @@ export function WorkflowManager() {
       ))
     } else {
       // Create new response
+      console.log(`Creating new response for question ${questionId}`)
       const newResponse: WorkflowResponse = {
         id: `resp_${Date.now()}`,
         claimId: selectedClaimId,
         questionId,
-        questionText: question.questionText,
+        questionText: question.questionText || question.text || 'Unknown Question',
         responseValue: value,
         parentQuestionId: question.parentQuestionId,
-        hierarchyLevel: question.hierarchyLevel,
-        sectionName: question.sectionName,
+        hierarchyLevel: question.hierarchyLevel || question.level || 0,
+        sectionName: question.sectionName || 'Default',
         respondedBy: 'Current User', // In real app, get from auth
         respondedAt: new Date()
       }

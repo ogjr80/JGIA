@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "total_option_categories": 8,
+    "total_question_patterns": 8,
+    "analysis_timestamp": "2025-09-13T08:47:11.628485"
+  },
+  "common_options": {
+    "status_response": [
+      "Repeated attempts",
+      "Unresponsive",
+      "Other",
+      "Manager to complete task"
+    ],
+    "yes_no": [
+      "Yes",
+      "No",
+      "Yes, No-modified",
+      "No-rejected"
+    ],
+    "actions": [
+      "Enter date/time",
+      "SKIP TO MANAGER FINAL REVIEW/INVOICE",
+      "Choose all that apply",
+      "Choose all that apply:"
+    ],
+    "review": [
+      "Review Required",
+      "Review not required",
+      "Review Not Required"
+    ],
+    "assignment": [
+      "Do not reassign claim",
+      "Reassign to different adjuster",
+      "Escalate to manager"
+    ],
+    "fault": [
+      "Yes",
+      "No",
+      "Partially",
+      "Not Applicable"
+    ],
+    "reason": [
+      "Technical issue",
+      "User error",
+      "System delay",
+      "Other",
+      "Repeated attempts",
+      "Unresponsive"
+    ],
+    "quality": [
+      "Yes",
+      "No-modified",
+      "No-rejected",
+      "Review Required",
+      "Review not required"
+    ]
+  },
+  "question_patterns": {
+    "status": {
+      "keywords": [
+        "status",
+        "response",
+        "manager",
+        "request"
+      ],
+      "options": "status_response"
+    },
+    "plan_of_action": {
+      "keywords": [
+        "plan of action"
+      ],
+      "options": "status_response"
+    },
+    "fault": {
+      "keywords": [
+        "fault",
+        "ta at fault"
+      ],
+      "options": "fault"
+    },
+    "resolution": {
+      "keywords": [
+        "resolution"
+      ],
+      "options": "status_response"
+    },
+    "reason": {
+      "keywords": [
+        "why",
+        "reason",
+        "not"
+      ],
+      "options": "reason"
+    },
+    "review": {
+      "keywords": [
+        "review",
+        "meet",
+        "standards",
+        "qa"
+      ],
+      "options": "quality"
+    },
+    "upload": {
+      "keywords": [
+        "upload",
+        "completed",
+        "sent",
+        "received"
+      ],
+      "options": "actions"
+    },
+    "assignment": {
+      "keywords": [
+        "reassign",
+        "assignment"
+      ],
+      "options": "assignment"
+    }
+  },
+  "usage_guide": {
+    "how_to_use": "Match question text keywords to patterns, then use corresponding options",
+    "example": "Question with \"status\" keyword -> use status_response options"
+  }
+}
